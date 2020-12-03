@@ -1,4 +1,4 @@
-# Hugo BERANGER - M2 MIAGE IA
+# Hugo BERANGER - Thomas GAUCI M2 MIAGE IA
 
 # install nltk and SPARQLWrapper
 import xml.etree.ElementTree as ET
