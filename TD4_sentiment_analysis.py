@@ -4,6 +4,9 @@
 import xml.etree.ElementTree as ET
 import nltk
 import re
+from nltk.corpus import sentiwordnet as swn
+#nltk.download('sentiwordnet')
+#nltk.download('wordnet')
 
 tree = ET.parse('Restaurants_Train.xml')
 root = tree.getroot()
@@ -40,9 +43,8 @@ for sentences in dataset:
     #print(question)
     #print(token)
     #print(tag)
-
 reviews_manually_tagged = [[[]]]
-for x in range(0):
+for x in range(2):
     to_append = [[]]
     for y in range(len(reviews_tagged[x])):
         couple = []
@@ -56,12 +58,35 @@ for x in range(0):
         else:
             #Ajoute le mot
             couple.append(reviews_tagged[x][y][0])
+            pos = 0
+            neg = 0
             #Ajoute sa polarité (analyse avec sentiword si il est positif ou negatif)
-            couple.append('')
+            if(reviews_tagged[x][y][1] == "NN" and len(list(swn.senti_synsets(couple[0],'n'))) > 0):
+                pos = (list(swn.senti_synsets(couple[0],'n'))[0]).pos_score() # score de polarité positif du mot
+                neg = (list(swn.senti_synsets(couple[0],'n'))[0]).pos_score() # score de polarité negatif du mot
+            elif(reviews_tagged[x][y][1] == "VB" and len(list(swn.senti_synsets(couple[0],'v'))) > 0):
+                pos = (list(swn.senti_synsets(couple[0],'v'))[0]).pos_score() # score de polarité positif du mot
+                neg = (list(swn.senti_synsets(couple[0],'v'))[0]).pos_score() # score de polarité negatif du mot
+            elif(reviews_tagged[x][y][1] == "JJ" and len(list(swn.senti_synsets(couple[0],'a'))) > 0):
+                pos = (list(swn.senti_synsets(couple[0],'a'))[0]).pos_score() # score de polarité positif du mot
+                neg = (list(swn.senti_synsets(couple[0],'a'))[0]).pos_score() # score de polarité negatif du mot
+            elif(reviews_tagged[x][y][1] == "RB" and len(list(swn.senti_synsets(couple[0],'r'))) > 0):
+                pos = (list(swn.senti_synsets(couple[0],'r'))[0]).pos_score() # score de polarité positif du mot
+                neg = (list(swn.senti_synsets(couple[0],'r'))[0]).pos_score() # score de polarité negatif du mot
+            #print(couple[0] + " pos : " + str(pos) + " neg : " + str(neg))
+            res = "none"
+            if(pos > neg):
+                res = "positive"
+            if(pos < neg):
+                res = "negative"
+            if(pos == neg):
+                res = "neutral"
+            couple.append(res)
+            
         to_append.append(couple)
     reviews_manually_tagged.append(to_append)
 
-
+# Amélioration : Attention on doit juste chercher la polarité des aspects terms, on peut utiliser sentiword mais après faut regarder si devant il n'y a pas un terme négatif 
 
 
         
