@@ -62,16 +62,16 @@ for x in range(2):
             #Ajoute sa polarité (analyse avec sentiword si il est positif ou negatif)
             if(reviews_tagged[x][y][1] == "NN" and len(list(swn.senti_synsets(couple[0],'n'))) > 0):
                 pos = (list(swn.senti_synsets(couple[0],'n'))[0]).pos_score() # score de polarité positif du mot
-                neg = (list(swn.senti_synsets(couple[0],'n'))[0]).pos_score() # score de polarité negatif du mot
+                neg = (list(swn.senti_synsets(couple[0],'n'))[0]).neg_score() # score de polarité negatif du mot
             elif(reviews_tagged[x][y][1] == "VB" and len(list(swn.senti_synsets(couple[0],'v'))) > 0):
                 pos = (list(swn.senti_synsets(couple[0],'v'))[0]).pos_score() # score de polarité positif du mot
-                neg = (list(swn.senti_synsets(couple[0],'v'))[0]).pos_score() # score de polarité negatif du mot
+                neg = (list(swn.senti_synsets(couple[0],'v'))[0]).neg_score() # score de polarité negatif du mot
             elif(reviews_tagged[x][y][1] == "JJ" and len(list(swn.senti_synsets(couple[0],'a'))) > 0):
                 pos = (list(swn.senti_synsets(couple[0],'a'))[0]).pos_score() # score de polarité positif du mot
-                neg = (list(swn.senti_synsets(couple[0],'a'))[0]).pos_score() # score de polarité negatif du mot
+                neg = (list(swn.senti_synsets(couple[0],'a'))[0]).neg_score() # score de polarité negatif du mot
             elif(reviews_tagged[x][y][1] == "RB" and len(list(swn.senti_synsets(couple[0],'r'))) > 0):
                 pos = (list(swn.senti_synsets(couple[0],'r'))[0]).pos_score() # score de polarité positif du mot
-                neg = (list(swn.senti_synsets(couple[0],'r'))[0]).pos_score() # score de polarité negatif du mot
+                neg = (list(swn.senti_synsets(couple[0],'r'))[0]).neg_score() # score de polarité negatif du mot
             #print(couple[0] + " pos : " + str(pos) + " neg : " + str(neg))
             res = "none"
             if(pos > neg):
@@ -81,19 +81,30 @@ for x in range(2):
             if(pos == neg):
                 res = "neutral"
             couple.append(res)
-            
         to_append.append(couple)
     reviews_manually_tagged.append(to_append)
 
 # Amélioration : Attention on doit juste chercher la polarité des aspects terms, on peut utiliser sentiword mais après faut regarder si devant il n'y a pas un terme négatif 
+# reponse = ["thomas","positif"]
+reponse = []
+for x in range(2):
+    # On cherche l'aspect term dans le phrase 
+    if(liste_reponses_aspectTerms[0] == "mot"):
+        # On récupère la positivité de la phrase 
+        reponse.append(["mot","polarité"])
+
 
 # Evaluation
 totalAspectTerms = len(liste_reponses_aspectTerms)
 justeAspectTerms = 0
 for x in range(10):
-    if(liste_reponses_aspectTerms[0] == "mot"):
-        if(liste_reponses_aspectTerms[1] == "polarité"):
+    if(liste_reponses_aspectTerms[x][0] == reponse[x][0]):
+        if(liste_reponses_aspectTerms[x][1] == reponse[x][1]):
             justeAspectTerms += 1
+precision = justeAspectTerms / totalAspectTerms
+rappel = justeAspectTerms / len(dataset)
+print("Résultat de l'évaluation : " + 2*((precision*rappel)/(precision+rappel)))
+    
 
 
         
