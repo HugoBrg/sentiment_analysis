@@ -29,21 +29,22 @@ for sentences in dataset:
 
     tag = nltk.pos_tag(token)
     reviews_tagged.append(tag)
+    aspectTerms = []
     for sentence in sentences:
         if(sentence.tag == "aspectTerms"):
             for aspectTerm in sentence:
                 #On récupère les aspectTerms
-                liste_reponses_aspectTerms.append([aspectTerm.attrib.get('term'),aspectTerm.attrib.get('polarity'),aspectTerm.attrib.get('from'),aspectTerm.attrib.get('to')])
+                aspectTerms.append([aspectTerm.attrib.get('term'),aspectTerm.attrib.get('polarity'),aspectTerm.attrib.get('from'),aspectTerm.attrib.get('to')])
         if(sentence.tag == "aspectCategories"):
             for aspectCategorie in sentence:
                 #On récupère les aspectCategories
                 liste_reponses_aspectCategories.append([aspectCategorie.attrib.get('category'),aspectCategorie.attrib.get('polarity')])
-       
+    liste_reponses_aspectTerms.append(aspectTerms)
     #print(question)
     #print(token)
     #print(tag)
 reviews_manually_tagged = [[[]]]
-for x in range(2):
+for x in range(50):
     to_append = [[]]
     for y in range(len(reviews_tagged[x])):
         couple = []
@@ -86,7 +87,8 @@ reviews_manually_tagged.pop(0)
 def polarity(phrase):
     res = 0
     for x in range(len(phrase)):
-       res += phrase[x][1]
+        if(phrase[x][1] != "NEG"):
+            res += phrase[x][1]
     if(res > 0):
         return "positif"
     if(res < 0):
@@ -96,48 +98,48 @@ def polarity(phrase):
 
 def sentence_sections():
     ensemble_phrases = []
-    phrase = []
-    section = []
+    # Itération sur les phrases
     for x in range(len(reviews_manually_tagged)):
-        for y in range(len(reviews_manually_tagged[x])):
+        phrase = []
+        section = []
+        # Itération sur les mots
+        for y in range(len(reviews_manually_tagged[x])):  
             if reviews_manually_tagged[x][y][0] == ",":
                 # Analyse de la section de la phrase
-                print(section)
                 phrase.append(section)
-                section.clear()
-                print(phrase)
+                section = []
             elif reviews_manually_tagged[x][y][0] == ".":
                 phrase.append(section)
+                section = []
                 ensemble_phrases.append(phrase)
-                section.clear()
-                phrase.clear()
             else:
                 section.append(reviews_manually_tagged[x][y])
-    print(ensemble_phrases)
     return ensemble_phrases
 
+sentences_section = sentence_sections()
+for x in range(6):
+    print(liste_reponses_aspectTerms[x])
 # reponse = ["thomas","positif"]
-sentences_section = [[[["The",0],["staff",1]],[["doctor",0],["staff",-1]]],[[["coucou",0],["food",0]]]]
+#sentences_section = [[[["The",0],["staff",1]],[["doctor",0],["staff",-1]]],[[["coucou",0],["food",0]]]]
 reponse = []
-for x in range(2):
-    # On cherche l'aspect term dans le phrase 
-    # La phrase est coupé en section
-    print(sentences_section[x])
-    print(len(sentences_section[x]))
-    if(len(sentences_section[x]) > 1):
-        # Itération sur les sections de phrase
-        for y in range(len(sentences_section[x])):
+for x in range(len(sentences_section)):
+    for k in range(len(liste_reponses_aspectTerms[x])):
+        # On cherche l'aspect term dans le phrase 
+        # La phrase est coupé en section
+        if(len(sentences_section[x]) > 1):
+            # Itération sur les sections de phrase
+            for y in range(len(sentences_section[x])):
+                # Itération sur les mots de la section de la phrase
+                for w in range(len(sentences_section[x][y])):
+                    if(liste_reponses_aspectTerms[x][k][0] == sentences_section[x][y][w][0]):
+                        # On récupère la positivité de la phrase 
+                        reponse.append([sentences_section[x][y][w][0],polarity(sentences_section[x][y])])
+        else:
             # Itération sur les mots de la section de la phrase
-            for w in range(len(sentences_section[x][y])):
-                if(liste_reponses_aspectTerms[x][0] == sentences_section[x][y][w][0]):
+            for w in range(len(sentences_section[x][0])):
+                if(liste_reponses_aspectTerms[x][k][0] == sentences_section[x][0][w][0]):
                     # On récupère la positivité de la phrase 
-                    reponse.append([sentences_section[x][y][w][0],polarity(sentences_section[x][y])])
-    else:
-        # Itération sur les mots de la section de la phrase
-        for w in range(len(sentences_section[x][0])):
-            if(liste_reponses_aspectTerms[x][0] == sentences_section[x][0][w][0]):
-                # On récupère la positivité de la phrase 
-                reponse.append([sentences_section[x][0][w][0],polarity(sentences_section[x][0])])
+                    reponse.append([sentences_section[x][0][w][0],polarity(sentences_section[x][0])])
 print("reponse :")
 print(reponse)
 
@@ -145,9 +147,13 @@ print(reponse)
 totalAspectTerms = len(liste_reponses_aspectTerms)
 justeAspectTerms = 0
 for x in range(len(reponse)):
-    if(liste_reponses_aspectTerms[x][0] == reponse[x][0]):
-        if(liste_reponses_aspectTerms[x][1] == reponse[x][1]):
-            justeAspectTerms += 1
+    for y in range(len(liste_reponses_aspectTerms[x])):
+        if(liste_reponses_aspectTerms[x][y][0] == reponse[x][0]):
+            if(liste_reponses_aspectTerms[x][y][1] == reponse[x][1]):
+                justeAspectTerms += 1
+print(justeAspectTerms)
+print(totalAspectTerms)
+print(len(dataset))
 precision = justeAspectTerms / totalAspectTerms
 rappel = justeAspectTerms / len(dataset)
 print(rappel)
