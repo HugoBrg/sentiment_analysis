@@ -39,7 +39,6 @@ for sentences in dataset:
                 #On récupère les aspectCategories
                 liste_reponses_aspectCategories.append([aspectCategorie.attrib.get('category'),aspectCategorie.attrib.get('polarity')])
                 
-
     #print(question)
     #print(token)
     #print(tag)
@@ -87,6 +86,14 @@ for x in range(2):
     reviews_manually_tagged.append(to_append)
 
 # Amélioration : Attention on doit juste chercher la polarité des aspects terms, on peut utiliser sentiword mais après faut regarder si devant il n'y a pas un terme négatif 
+
+# Evaluation
+totalAspectTerms = len(liste_reponses_aspectTerms)
+justeAspectTerms = 0
+for x in range(10):
+    if(liste_reponses_aspectTerms[0] == "mot"):
+        if(liste_reponses_aspectTerms[1] == "polarité"):
+            justeAspectTerms += 1
 
 
         
