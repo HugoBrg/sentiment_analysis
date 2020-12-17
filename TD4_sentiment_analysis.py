@@ -44,7 +44,7 @@ for sentences in dataset:
     #print(token)
     #print(tag)
 reviews_manually_tagged = [[[]]]
-for x in range(50):
+for x in range(len(reviews_tagged)):
     to_append = [[]]
     for y in range(len(reviews_tagged[x])):
         couple = []
@@ -90,9 +90,9 @@ def polarity(phrase):
         if(phrase[x][1] != "NEG"):
             res += phrase[x][1]
     if(res > 0):
-        return "positif"
+        return "positive"
     if(res < 0):
-        return "negatif"
+        return "negative"
     if(res == 0):
         return "neutral"
 
@@ -117,12 +117,11 @@ def sentence_sections():
     return ensemble_phrases
 
 sentences_section = sentence_sections()
-for x in range(6):
-    print(liste_reponses_aspectTerms[x])
+
 # reponse = ["thomas","positif"]
 #sentences_section = [[[["The",0],["staff",1]],[["doctor",0],["staff",-1]]],[[["coucou",0],["food",0]]]]
 reponse = []
-for x in range(len(sentences_section)):
+for x in range(30):
     for k in range(len(liste_reponses_aspectTerms[x])):
         # On cherche l'aspect term dans le phrase 
         # La phrase est coupé en section
@@ -130,27 +129,39 @@ for x in range(len(sentences_section)):
             # Itération sur les sections de phrase
             for y in range(len(sentences_section[x])):
                 # Itération sur les mots de la section de la phrase
+                phrase = ""
                 for w in range(len(sentences_section[x][y])):
-                    if(liste_reponses_aspectTerms[x][k][0] == sentences_section[x][y][w][0]):
-                        # On récupère la positivité de la phrase 
-                        reponse.append([sentences_section[x][y][w][0],polarity(sentences_section[x][y])])
-        else:
-            # Itération sur les mots de la section de la phrase
-            for w in range(len(sentences_section[x][0])):
-                if(liste_reponses_aspectTerms[x][k][0] == sentences_section[x][0][w][0]):
+                    phrase += sentences_section[x][y][w][0] + " "
+                print(liste_reponses_aspectTerms[x][k][0])
+                print(phrase)
+                if(phrase.find(liste_reponses_aspectTerms[x][k][0]) != -1):
                     # On récupère la positivité de la phrase 
-                    reponse.append([sentences_section[x][0][w][0],polarity(sentences_section[x][0])])
-print("reponse :")
-print(reponse)
+                    reponse.append([liste_reponses_aspectTerms[x][k][0],polarity(sentences_section[x][y])])
+        else:
+            phrase = ""
+            # Itération sur les mots de la section de la phrase
+            for w in range(len(sentences_section[x][0])):                
+                phrase += sentences_section[x][0][w][0] + " "
+            print(liste_reponses_aspectTerms[x][k][0])
+            print(phrase)
+            if(phrase.find(liste_reponses_aspectTerms[x][k][0]) != -1):
+                # On récupère la positivité de la phrase 
+                reponse.append([liste_reponses_aspectTerms[x][k][0],polarity(sentences_section[x][0])])
+
+listTerms = []
+# Formatage de la liste des aspects terms
+for x in range(len(liste_reponses_aspectTerms)):
+    for y in range(len(liste_reponses_aspectTerms[x])):
+        listTerms.append([liste_reponses_aspectTerms[x][y][0],liste_reponses_aspectTerms[x][y][1]])
 
 # Evaluation
 totalAspectTerms = len(liste_reponses_aspectTerms)
 justeAspectTerms = 0
-for x in range(len(reponse)):
-    for y in range(len(liste_reponses_aspectTerms[x])):
-        if(liste_reponses_aspectTerms[x][y][0] == reponse[x][0]):
-            if(liste_reponses_aspectTerms[x][y][1] == reponse[x][1]):
-                justeAspectTerms += 1
+for x in range(30):
+    print(listTerms[x][0] + " ? " + reponse[x][0])
+    if(listTerms[x][0] == reponse[x][0]):
+        if(listTerms[x][1] == reponse[x][1]):
+            justeAspectTerms += 1
 print(justeAspectTerms)
 print(totalAspectTerms)
 print(len(dataset))
@@ -158,7 +169,7 @@ precision = justeAspectTerms / totalAspectTerms
 rappel = justeAspectTerms / len(dataset)
 print(rappel)
 print(precision)
-print("Résultat de l'évaluation : " + 2*((precision*rappel)/(precision+rappel)))
+print("Résultat de l'évaluation : " + str(2*((precision*rappel)/(precision+rappel))))
     
 
 
