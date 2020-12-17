@@ -1,0 +1,3688 @@
+staff ? staff
+food ? food
+food ? food
+kitchen ? kitchen
+menu ? menu
+food ? food
+perks ? perks
+orrechiete with sausage and chicken ? orrechiete with sausage and chicken
+waiters ? waiters
+meats ? meats
+dish ? dish
+Bagels ? Bagels
+food ? food
+toast ? toast
+mayonnaise ? mayonnaise
+bacon ? bacon
+cheese ? cheese
+ingredients ? ingredients
+plate ? plate
+omelet ? omelet
+drinks ? drinks
+check ? check
+design ? design
+atmosphere ? atmosphere
+cuisine ? cuisine
+pizza ? pizza
+thin crusted pizza ? thin crusted pizza
+interior decoration ? interior decoration
+chefs ? chefs
+seats ? seats
+seltzer with lime ? seltzer with lime
+pickles ? pickles
+selection of meats and seafoods ? selection of meats and seafoods
+dishes ? dishes
+eat family style ? eat family style
+vibe ? vibe
+owner ? owner
+service ? service
+delivery ? delivery
+food ? food
+atmosphere ? atmosphere
+service ? service
+food ? food
+prices ? prices
+interior decor ? interior decor
+prices ? prices
+wine ? wine
+price ? price
+service ? service
+quantity ? quantity
+sushi ? sushi
+sushi bar ? sushi bar
+fried rice ? fried rice
+mussels ? mussels
+puff pastry goat cheese ? puff pastry goat cheese
+salad with a delicious dressing ? salad with a delicious dressing
+hanger steak au poivre ? hanger steak au poivre
+courses ? courses
+indian food ? indian food
+service ? service
+place ? place
+broth with noodles ? broth with noodles
+meal ? meal
+money ? money
+food ? food
+wine list ? wine list
+Thai food ? Thai food
+glass of wine ? glass of wine
+specials ? specials
+lunch ? lunch
+dinner ? dinner
+dine ? dine
+atmosphere ? atmosphere
+service ? service
+desert ? desert
+bar ? bar
+table ? table
+dinner ? dinner
+service ? service
+food ? food
+atmosphere ? atmosphere
+environment ? environment
+lasagnette appetizer ? lasagnette appetizer
+beer selection ? beer selection
+food ? food
+menu ? menu
+service ? service
+setting ? setting
+dinner ? dinner
+dining ? dining
+Dosa ? Dosa
+Wine list selection ? Wine list selection
+wine-by-the-glass ? wine-by-the-glass
+menu ? menu
+menu ? menu
+entrees ? entrees
+menu ? menu
+dishes ? dishes
+sake martini ? sake martini
+bagels ? bagels
+spreads ? spreads
+service ? service
+table ? table
+food ? food
+meal ? meal
+ingredients ? ingredients
+chopsticks ? chopsticks
+garden terrace ? garden terrace
+pizza ? pizza
+cuisine ? cuisine
+atmosphere ? atmosphere
+service ? service
+crowded ? crowded
+dish ? dish
+atmosphere ? atmosphere
+service ? service
+food ? food
+grilled branzino ? grilled branzino
+wait staff ? wait staff
+food ? food
+vibe ? vibe
+French food ? French food
+packed ? packed
+pizza ? pizza
+place ? place
+pre-theater menu ? pre-theater menu
+delivery ? delivery
+order ? order
+server ? server
+meal ? meal
+scents ? scents
+lobster sandwich ? lobster sandwich
+check ? check
+Spider Roll ? Spider Roll
+price ? price
+shell crab ? shell crab
+Deep Fried Skewers ? Deep Fried Skewers
+reservations ? reservations
+hostess ? hostess
+rice dishes ? rice dishes
+congee (rice porridge) ? congee (rice porridge)
+tuna tartar appetizer ? tuna tartar appetizer
+Food ? Food
+chef ? chef
+fish dishes ? fish dishes
+soups ? soups
+kitchen ? kitchen
+cuisine ? cuisine
+wine ? wine
+french fare ? french fare
+cheese ? cheese
+Indian food ? Indian food
+baby pizzas ? baby pizzas
+waiting ? waiting
+lava cake dessert ? lava cake dessert
+baby pizzas ? baby pizzas
+service ? service
+food ? food
+managers ? managers
+food ? food
+food ? food
+table ? table
+selection of wines ? selection of wines
+Italian decor ? Italian decor
+food ? food
+dining experience ? dining experience
+wine selection ? wine selection
+reservation ? reservation
+Service ? Service
+maitre ? maitre
+reservation ? reservation
+panang duck ? panang duck
+Food ? Food
+raw vegatables ? raw vegatables
+service ? service
+Indian ? Indian
+prices ? prices
+Ambiance ? Ambiance
+BBQ Salmon ? BBQ Salmon
+Sea Bass ? Sea Bass
+Crispy Duck ? Crispy Duck
+ingredients ? ingredients
+ingredients ? ingredients
+pizza ? pizza
+crust ? crust
+kababs ? kababs
+Dal Bukhara ? Dal Bukhara
+eating ? eating
+taste ? taste
+meal ? meal
+price ? price
+glass of prosecco ? glass of prosecco
+mussels ? mussels
+glass of Leaping Lizard ? glass of Leaping Lizard
+Food ? Food
+creme brulee ? creme brulee
+sugar ? sugar
+food ? food
+served ? served
+pizza ? pizza
+Pizza ? Pizza
+delivery ? delivery
+garlic knots ? garlic knots
+chinese food ? chinese food
+service ? service
+food ? food
+chef ? chef
+Service ? Service
+teapot ? teapot
+pizza ? pizza
+fresh mozzarella ? fresh mozzarella
+cheese ? cheese
+place ? place
+food ? food
+service ? service
+getting a table ? getting a table
+atmosphere ? atmosphere
+bistro-type vibe ? bistro-type vibe
+waitress ? waitress
+tables ? tables
+food ? food
+prices ? prices
+food ? food
+fish ? fish
+variety of fish ? variety of fish
+pesto pizza ? pesto pizza
+house salad ? house salad
+bottle of wine ? bottle of wine
+meal ? meal
+bartender ? bartender
+beverage manager ? beverage manager
+Ambiance ? Ambiance
+music ? music
+food ? food
+drinks ? drinks
+service ? service
+food ? food
+refleshment ? refleshment
+ambiance ? ambiance
+service ? service
+foods ? foods
+tastes ? tastes
+sommlier ? sommlier
+captain ? captain
+back waiters ? back waiters
+waitress ? waitress
+tandoori salmon ? tandoori salmon
+atmosphere ? atmosphere
+space ? space
+service ? service
+atmorphere ? atmorphere
+service ? service
+menu items ? menu items
+three course meal ? three course meal
+Pizza ? Pizza
+environment ? environment
+food ? food
+service ? service
+crawfish boiled ? crawfish boiled
+reservation ? reservation
+table ? table
+Pad Thai ? Pad Thai
+noodles ? noodles
+delivered ? delivered
+values for your money ? values for your money
+lunch ? lunch
+hostess ? hostess
+food ? food
+wait building ? wait building
+corridor ? corridor
+space ? space
+counters ? counters
+counter ? counter
+entrees ? entrees
+food ? food
+steaks ? steaks
+salads ? salads
+sides ? sides
+Lunch ? Lunch
+pickels and slaw ? pickels and slaw
+wine ? wine
+prices ? prices
+delivered ? delivered
+wine by the glass ? wine by the glass
+price ? price
+dish ? dish
+Change Mojito ? Change Mojito
+service ? service
+food ? food
+service ? service
+food ? food
+soup for the udon ? soup for the udon
+soy sauce ? soy sauce
+water ? water
+anti-pasta ? anti-pasta
+calamari ? calamari
+filling pasta mains ? filling pasta mains
+waitress ? waitress
+food ? food
+glasses of wine ? glasses of wine
+food ? food
+counter ? counter
+sushi ? sushi
+ceviche mix (special) ? ceviche mix (special)
+crab dumplings ? crab dumplings
+assorted sashimi ? assorted sashimi
+sushi ? sushi
+rolls ? rolls
+sake ? sake
+banana tempura ? banana tempura
+plain pizza ? plain pizza
+garlic ? garlic
+eggplant ? eggplant
+servers ? servers
+servers ? servers
+getting a table ? getting a table
+service ? service
+takeout menu ? takeout menu
+menu ? menu
+italian dishes ? italian dishes
+Thai food ? Thai food
+hostess ? hostess
+pizza ? pizza
+bottles of wine ? bottles of wine
+beers ? beers
+food ? food
+pumkin tortelini ? pumkin tortelini
+dish ? dish
+dinner special ? dinner special
+crabmeat lasagna ? crabmeat lasagna
+chocolate bread pudding ? chocolate bread pudding
+dessert ? dessert
+pasta dishes ? pasta dishes
+tiramisu ? tiramisu
+service ? service
+prices ? prices
+lunch ? lunch
+service ? service
+staff ? staff
+menu ? menu
+meal ? meal
+bagel ? bagel
+food ? food
+servers ? servers
+food ? food
+plate of dumplings ? plate of dumplings
+Filet Mignon ? Filet Mignon
+sangria ? sangria
+bar ? bar
+bar ? bar
+bartender ? bartender
+sake menu ? sake menu
+drinks ? drinks
+beef cubes ? beef cubes
+service ? service
+wine selection ? wine selection
+ambiance ? ambiance
+reservations ? reservations
+service ? service
+service ? service
+waiters ? waiters
+food ? food
+dessert ? dessert
+portions ? portions
+traffic noise ? traffic noise
+food ? food
+food ? food
+ambience ? ambience
+service ? service
+dinner meeting ? dinner meeting
+atmosphere ? atmosphere
+food ? food
+Cantonese ? Cantonese
+cooking ? cooking
+food ? food
+atmosphere ? atmosphere
+Prix Fixe menu ? Prix Fixe menu
+quantity ? quantity
+quality ? quality
+lunch ? lunch
+eggs benedict ? eggs benedict
+hollondaise sauce ? hollondaise sauce
+brunch ? brunch
+oatmeal ? oatmeal
+food ? food
+menu ? menu
+Chilean Sea Bass ? Chilean Sea Bass
+server ? server
+specials ? specials
+food ? food
+onion soup ? onion soup
+wine ? wine
+staff ? staff
+Dim Sum ? Dim Sum
+dinner ? dinner
+roll ? roll
+roll ? roll
+roll ? roll
+rice ? rice
+gin and tonic ? gin and tonic
+tonic ? tonic
+dim sum ? dim sum
+little dishes ? little dishes
+service ? service
+Thai ? Thai
+reservation ? reservation
+Grilled Chicken special with Edamame Puree ? Grilled Chicken special with Edamame Puree
+roast duck ? roast duck
+pork ? pork
+chicken on rice with ginger ? chicken on rice with ginger
+menu ? menu
+Staff ? Staff
+reservation ? reservation
+dinner ? dinner
+Sake ? Sake
+dishes ? dishes
+portion ? portion
+food ? food
+service ? service
+roti rolls ? roti rolls
+ingredients ? ingredients
+meal ? meal
+food ? food
+tip ? tip
+service ? service
+meat ? meat
+hot dogs ? hot dogs
+Delivery ? Delivery
+noise level ? noise level
+Personal pans ? Personal pans
+Spicy Fried Clam Rolls ? Spicy Fried Clam Rolls
+Spider Rolls ? Spider Rolls
+menu ? menu
+atmosphere ? atmosphere
+place ? place
+FOOD ? FOOD
+lunch ? lunch
+food quality ? food quality
+man ? man
+table ? table
+table ? table
+cheesecake ? cheesecake
+food ? food
+employees ? employees
+containers for condiments ? containers for condiments
+containers ? containers
+manager ? manager
+Indian food ? Indian food
+service ? service
+Decor ? Decor
+food ? food
+wine list ? wine list
+food ? food
+salmon dish ? salmon dish
+flavor ? flavor
+price ? price
+tuna melt ? tuna melt
+cheese ? cheese
+tuna sandwich ? tuna sandwich
+chicken tikka ? chicken tikka
+naan ? naan
+dals ? dals
+waiters ? waiters
+bill ? bill
+lawns ? lawns
+staff ? staff
+sangria ? sangria
+thai food ? thai food
+food ? food
+service ? service
+ravioli ? ravioli
+menu ? menu
+service ? service
+bill ? bill
+lunch ? lunch
+drinks ? drinks
+sushi ? sushi
+food ? food
+service ? service
+price tag ? price tag
+Thai food ? Thai food
+appetizers ? appetizers
+service ? service
+mozzarella ? mozzarella
+pie ? pie
+Fish ? Fish
+main dining room ? main dining room
+ceiling ? ceiling
+menu selections ? menu selections
+service ? service
+music ? music
+establishment ? establishment
+dim sum ? dim sum
+food ? food
+wait staff ? wait staff
+dim sum ? dim sum
+Service ? Service
+seafood dishes ? seafood dishes
+appetizers ? appetizers
+lunch ? lunch
+dinner ? dinner
+bottle of wine ? bottle of wine
+grapes ? grapes
+Prices ? Prices
+waiter ? waiter
+thai food ? thai food
+dish ? dish
+burger ? burger
+pastas ? pastas
+food ? food
+staples ? staples
+Dim Sum ? Dim Sum
+food ? food
+waitress ? waitress
+seating ? seating
+bar ? bar
+place ? place
+dinner ? dinner
+Food ? Food
+music ? music
+food ? food
+service ? service
+prices ? prices
+wait ? wait
+lobster sandwich ? lobster sandwich
+price ? price
+owner ? owner
+sides ? sides
+seafood ? seafood
+menu ? menu
+Salmon ? Salmon
+place ? place
+beverages ? beverages
+dessert ? dessert
+hostess ? hostess
+waitress ? waitress
+Asian appetizers ? Asian appetizers
+drinks ? drinks
+wait ? wait
+view ? view
+meal ? meal
+dinner ? dinner
+ambiance ? ambiance
+food ? food
+service ? service
+prices ? prices
+atmosphere ? atmosphere
+sushi ? sushi
+service ? service
+value ? value
+service ? service
+served ? served
+service ? service
+attitude ? attitude
+food ? food
+striped bass ? striped bass
+music ? music
+corriander ? corriander
+black white shakes ? black white shakes
+meal ? meal
+dinner ? dinner
+seating ? seating
+chu chu curry ? chu chu curry
+pad thai chicken ? pad thai chicken
+food ? food
+prix fixe ? prix fixe
+pastrami ? pastrami
+soups ? soups
+bagels ? bagels
+sushi ? sushi
+bagel with lox spread ? bagel with lox spread
+bagles ? bagles
+food ? food
+quality of food ? quality of food
+lobby area ? lobby area
+seated ? seated
+pizza ? pizza
+proprietor ? proprietor
+lunch meetings ? lunch meetings
+decor ? decor
+prices ? prices
+food's presentation ? food's presentation
+Waitstaff ? Waitstaff
+swordfish ? swordfish
+meal ? meal
+setting ? setting
+management ? management
+service ? service
+seating ? seating
+Delivery ? Delivery
+sushi ? sushi
+desserts ? desserts
+Italian food ? Italian food
+service ? service
+food ? food
+salmon dish ? salmon dish
+rolls ? rolls
+food ? food
+decor ? decor
+prices ? prices
+owner ? owner
+lunch ? lunch
+dinner ? dinner
+Moules ? Moules
+lobster ravioli ? lobster ravioli
+dosa ? dosa
+eat ? eat
+atmosphere ? atmosphere
+waiters ? waiters
+seafood ? seafood
+wine list ? wine list
+menu ? menu
+wine ? wine
+indian ? indian
+wine list ? wine list
+wines ? wines
+Pastrami or corned beef ? Pastrami or corned beef
+rye bread ? rye bread
+glasses of champagne ? glasses of champagne
+bottle of wine ? bottle of wine
+after dinner drinks ? after dinner drinks
+seasoning ? seasoning
+food ? food
+food ? food
+waitress ? waitress
+food ? food
+ambience ? ambience
+service ? service
+wine list ? wine list
+staff ? staff
+owners ? owners
+menu ? menu
+people ? people
+menu ? menu
+main dishes ? main dishes
+waiter ? waiter
+specials ? specials
+location ? location
+ambience ? ambience
+food ? food
+stuff ? stuff
+eats ? eats
+dinner ? dinner
+gourmet food ? gourmet food
+bruschetta ? bruschetta
+panini ? panini
+dishes ? dishes
+menu ? menu
+service ? service
+waitress ? waitress
+fried mini buns with the condensed milk and the assorted fruits on beancurd ? fried mini buns with the condensed milk and the assorted fruits on beancurd
+food ? food
+prices ? prices
+food ? food
+sushi ? sushi
+portions ? portions
+servers ? servers
+starter ? starter
+bagels ? bagels
+food ? food
+pizza ? pizza
+take-out pizza ? take-out pizza
+server ? server
+green curry with vegetables ? green curry with vegetables
+place ? place
+door ? door
+priced ? priced
+food ? food
+portioins ? portioins
+reservation ? reservation
+Pad Thai ? Pad Thai
+lunch specials ? lunch specials
+place ? place
+pizzas ? pizzas
+food ? food
+pot-stickers ? pot-stickers
+tempura dish ? tempura dish
+stuff ? stuff
+food ? food
+atmosphere ? atmosphere
+entree range ? entree range
+French food ? French food
+deliveries ? deliveries
+food ? food
+staff ? staff
+portions ? portions
+staff ? staff
+smoked salmon and roe appetizer ? smoked salmon and roe appetizer
+lunch ? lunch
+food ? food
+garlic shrimp ? garlic shrimp
+lamb ? lamb
+okra (bindi) ? okra (bindi)
+waiter ? waiter
+menu ? menu
+burger ? burger
+steak ? steak
+escargot ? escargot
+plate ? plate
+food ? food
+casual dinner ? casual dinner
+food ? food
+price ? price
+wine list ? wine list
+Prices ? Prices
+chicken tikka marsala ? chicken tikka marsala
+styles of pizza ? styles of pizza
+look ? look
+food ? food
+portions ? portions
+coconut rice ? coconut rice
+appetizer ? appetizer
+food ? food
+food ? food
+beers on tap ? beers on tap
+wine list ? wine list
+priced ? priced
+music ? music
+bottle minimun ? bottle minimun
+food ? food
+spot ? spot
+staff ? staff
+meal ? meal
+table ? table
+Quality of food ? Quality of food
+price ? price
+pork ? pork
+fish ? fish
+chicken ? chicken
+lamb ? lamb
+vegetables ? vegetables
+seating ? seating
+place ? place
+appetizing ? appetizing
+price ? price
+bun ? bun
+food ? food
+priced ? priced
+fusion of French and Indian cooking ? fusion of French and Indian cooking
+turnip cake ? turnip cake
+roast pork buns ? roast pork buns
+egg custards ? egg custards
+bagels ? bagels
+seating in the garden ? seating in the garden
+seats ? seats
+service ? service
+place ? place
+water ? water
+food ? food
+place ? place
+food options ? food options
+cost ? cost
+pre-theatre 3-course dinner ? pre-theatre 3-course dinner
+wine flight ? wine flight
+lunch ? lunch
+dinner ? dinner
+calzones ? calzones
+drink ? drink
+place ? place
+bar scene ? bar scene
+staff ? staff
+spreads ? spreads
+beverage selections ? beverage selections
+bagels ? bagels
+waiter ? waiter
+specials ? specials
+served ? served
+tiramisu ? tiramisu
+meal ? meal
+secret back room ? secret back room
+bar ? bar
+food ? food
+service ? service
+gulab jamun ? gulab jamun
+prices ? prices
+atmosphere ? atmosphere
+service ? service
+wine list ? wine list
+diner ? diner
+wait staff ? wait staff
+table ? table
+meal ? meal
+room ? room
+dinner ? dinner
+pig feet ginger simmered in black vinegar ? pig feet ginger simmered in black vinegar
+desserts with frog jelly ? desserts with frog jelly
+food ? food
+priced ? priced
+thai cuisine ? thai cuisine
+crew ? crew
+host ? host
+round tables ? round tables
+Taiwanese ? Taiwanese
+portion ? portion
+french fries ? french fries
+dinner ? dinner
+food ? food
+dishes ? dishes
+specials ? specials
+regular menu-fare ? regular menu-fare
+Prices ? Prices
+fresh tomato sauce ? fresh tomato sauce
+fresh mozz cheese ? fresh mozz cheese
+basil ? basil
+dough ? dough
+pizza ? pizza
+flour ? flour
+food ? food
+Indian food ? Indian food
+Paneer Roll ? Paneer Roll
+food ? food
+plates ? plates
+fresh mozzerella slices ? fresh mozzerella slices
+Plain Cheese slice ? Plain Cheese slice
+food ? food
+food ? food
+food ? food
+Filet Mignon with garlic mash ? Filet Mignon with garlic mash
+pre-theater menu ? pre-theater menu
+roasted tomato soup with chevre ? roasted tomato soup with chevre
+steak frites ? steak frites
+creme brulee ? creme brulee
+waitstaff ? waitstaff
+bread ? bread
+pizza ? pizza
+margarite pizza with cold prosciutto and baby arugula on top ? margarite pizza with cold prosciutto and baby arugula on top
+salad ? salad
+Peter's Favourite pizza with prosciutto and baby arugula ? Peter's Favourite pizza with prosciutto and baby arugula
+prices ? prices
+bruschettas ? bruschettas
+paninis ? paninis
+tramezzinis ? tramezzinis
+waiters ? waiters
+diners ? diners
+chef ? chef
+dishes ? dishes
+cuisine ? cuisine
+Indian ? Indian
+owner ? owner
+food ? food
+meal ? meal
+pre-theater prix-fixe ? pre-theater prix-fixe
+food ? food
+wine ? wine
+dining ? dining
+menu ? menu
+fried chicken ? fried chicken
+pork chop ? pork chop
+noodle dishes ? noodle dishes
+Indian food ? Indian food
+privacy ? privacy
+corner booth table ? corner booth table
+place ? place
+manager ? manager
+open faced cheese sandwich ? open faced cheese sandwich
+breads ? breads
+naan ? naan
+squid ? squid
+half-price Saturday night option ? half-price Saturday night option
+Pizza ? Pizza
+homemade pasta ? homemade pasta
+value ofr money ? value ofr money
+soup ? soup
+mushrooms ? mushrooms
+Service ? Service
+waiting ? waiting
+beginning appetizers ? beginning appetizers
+scallops ? scallops
+chocolate souffle with rasberry mint sorbet ? chocolate souffle with rasberry mint sorbet
+taste ? taste
+Japanese Tapas ? Japanese Tapas
+fish ? fish
+rice ? rice
+seaweed ? seaweed
+dishes ? dishes
+lamb sausages ? lamb sausages
+sardines with biscuits ? sardines with biscuits
+large whole shrimp ? large whole shrimp
+pistachio ice cream ? pistachio ice cream
+food ? food
+price ? price
+ambiance ? ambiance
+atmosphere ? atmosphere
+food ? food
+service ? service
+server ? server
+food ? food
+drinks ? drinks
+served ? served
+food ? food
+sushi ? sushi
+thai food ? thai food
+Chef ? Chef
+service ? service
+table ? table
+garlic ? garlic
+fresh tomatoes ? fresh tomatoes
+sauce on the pizza ? sauce on the pizza
+outdoor seating ? outdoor seating
+mesclun ? mesclun
+salmon ? salmon
+ice cream ? ice cream
+courses ? courses
+wait ? wait
+food ? food
+place ? place
+staff ? staff
+bistro fare ? bistro fare
+chilaquiles ? chilaquiles
+jazz brunch ? jazz brunch
+live jazz ? live jazz
+prices ? prices
+bill ? bill
+measures of liquers ? measures of liquers
+table service ? table service
+service ? service
+thai food ? thai food
+Food ? Food
+pork belly ? pork belly
+fat ? fat
+food ? food
+tables ? tables
+dinner ? dinner
+place ? place
+pizza ? pizza
+bar ? bar
+Service ? Service
+lamb chop ? lamb chop
+salads ? salads
+lemon ? lemon
+extra virgnin olive oil ? extra virgnin olive oil
+sushi ? sushi
+meal ? meal
+cost ? cost
+dishes ? dishes
+Pastrami sandwich ? Pastrami sandwich
+beer ? beer
+pickles ? pickles
+plain pizza ? plain pizza
+truffle oil ? truffle oil
+wild mushroom (third generation-Fornini) pizza ? wild mushroom (third generation-Fornini) pizza
+omelletes ? omelletes
+tip ? tip
+lunch ? lunch
+dinner ? dinner
+counter ? counter
+fish ? fish
+service ? service
+Sushi fix ? Sushi fix
+waitress ? waitress
+reservation sigh ? reservation sigh
+table ? table
+food ? food
+place ? place
+menu ? menu
+food art ? food art
+outdoor atmosphere ? outdoor atmosphere
+toppings ? toppings
+pizza ? pizza
+service ? service
+food ? food
+price ? price
+Thai food ? Thai food
+bagels ? bagels
+bills ? bills
+scallion pancakes ? scallion pancakes
+fried dumplings ? fried dumplings
+appetizers ? appetizers
+salads ? salads
+steak ? steak
+pasta ? pasta
+table ? table
+served ? served
+dishes ? dishes
+table ? table
+served ? served
+bill ? bill
+Service ? Service
+food ? food
+dumpling ? dumpling
+fondue appetizer ? fondue appetizer
+spice ? spice
+Octopus salad ? Octopus salad
+foods ? foods
+MSG cooking ? MSG cooking
+Tom Kha soup ? Tom Kha soup
+Bombay beer ? Bombay beer
+decor ? decor
+dining hall ? dining hall
+semi-private boths ? semi-private boths
+Service ? Service
+service ? service
+office lunch ? office lunch
+sweet lassi ? sweet lassi
+lamb chettinad ? lamb chettinad
+garlic naan ? garlic naan
+rasamalai ? rasamalai
+bistro fare ? bistro fare
+chef ? chef
+food ? food
+lambchops ? lambchops
+spicy tuna ? spicy tuna
+salmon ? salmon
+seafood ? seafood
+prices ? prices
+food ? food
+prices ? prices
+owners ? owners
+hosts ? hosts
+quality value ? quality value
+Meat dishes ? Meat dishes
+vegetarian-friendly choices ? vegetarian-friendly choices
+prices ? prices
+amuse bouche ? amuse bouche
+dessert ? dessert
+tables ? tables
+service ? service
+crunchy tuna ? crunchy tuna
+food ? food
+sushi ? sushi
+live entertainment ? live entertainment
+special effects ? special effects
+sushi ? sushi
+sushi ? sushi
+fountain drinks ? fountain drinks
+beers ? beers
+portions ? portions
+Steak Tartare ? Steak Tartare
+Crab Croquette apt ? Crab Croquette apt
+waiter ? waiter
+wine ? wine
+house wine ? house wine
+bread ? bread
+dim sum servings ? dim sum servings
+management ? management
+door ? door
+glass front ? glass front
+meal ? meal
+Barbecued codfish ? Barbecued codfish
+seasoning ? seasoning
+texture ? texture
+spice rub ? spice rub
+herb mix ? herb mix
+sauce ? sauce
+dance floor ? dance floor
+dinner ? dinner
+value ? value
+food ? food
+chef ? chef
+owner ? owner
+dinner ? dinner
+bacon ? bacon
+platter ? platter
+in sandwiches ? in sandwiches
+frying ? frying
+bacos ? bacos
+Bagels ? Bagels
+Pizza ? Pizza
+crust ? crust
+pizza ? pizza
+toppings ? toppings
+bread ? bread
+spot ? spot
+menu ? menu
+American Chinese food ? American Chinese food
+Service ? Service
+beef carpaachio ? beef carpaachio
+pasta ? pasta
+portion ? portion
+kalbi ? kalbi
+nebbiolo ? nebbiolo
+Italian food ? Italian food
+Italian food ? Italian food
+Located ? Located
+meal ? meal
+room ? room
+clubhouse ? clubhouse
+trays of Dim Sum ? trays of Dim Sum
+bar ? bar
+bartenders ? bartenders
+dessert ? dessert
+waitress ? waitress
+bill ? bill
+cheff ? cheff
+food ? food
+cheese ? cheese
+meal ? meal
+server ? server
+wine ? wine
+wine ? wine
+price range ? price range
+priced ? priced
+svc ? svc
+food ? food
+dishes ? dishes
+drinks ? drinks
+whole grilled fish ? whole grilled fish
+tuna tartare ? tuna tartare
+sake ? sake
+mushroom ravioli ? mushroom ravioli
+pinot noir ? pinot noir
+chocolate sampler ? chocolate sampler
+dessert wine ? dessert wine
+lunch ? lunch
+food ? food
+service ? service
+lines ? lines
+crowds ? crowds
+Pizza ? Pizza
+shows ? shows
+food ? food
+characters ? characters
+waiter ? waiter
+beers ? beers
+manager ? manager
+reservations ? reservations
+dinner ? dinner
+Sauce ? Sauce
+food ? food
+flavor ? flavor
+Sangria ? Sangria
+indian cuisine ? indian cuisine
+pasta dish ? pasta dish
+served ? served
+bread ? bread
+appetizer ? appetizer
+glass of wine ? glass of wine
+main course ? main course
+neighborhood ? neighborhood
+food ? food
+Thai food ? Thai food
+waiter ? waiter
+hosting staff ? hosting staff
+reservations ? reservations
+reservation ? reservation
+seating ? seating
+food ? food
+dishes ? dishes
+specials ? specials
+ingredients ? ingredients
+thai ? thai
+apetizers ? apetizers
+food ? food
+noodle and rices dishes ? noodle and rices dishes
+food ? food
+crust ? crust
+staff ? staff
+ingredients ? ingredients
+bagel ? bagel
+food ? food
+vegetables ? vegetables
+sauce ? sauce
+fried clams ? fried clams
+sauces ? sauces
+lunch menu ? lunch menu
+appetizer ? appetizer
+entree ? entree
+rice ? rice
+quality ? quality
+cooked ? cooked
+champagne ? champagne
+caviar ? caviar
+shrimp scampi ? shrimp scampi
+antipasti ? antipasti
+dessert ? dessert
+waiter ? waiter
+dim sum combo ? dim sum combo
+seating ? seating
+food ? food
+wait ? wait
+martini ? martini
+bar ? bar
+Roast Chicken ? Roast Chicken
+table ? table
+insde table ? insde table
+wait ? wait
+prices ? prices
+chicken vindaloo ? chicken vindaloo
+spicy food ? spicy food
+lunch specials ? lunch specials
+bar food ? bar food
+menu ? menu
+hand-crafted beers ? hand-crafted beers
+drink ? drink
+food ? food
+service ? service
+capex ? capex
+bagels ? bagels
+chefs ? chefs
+decor ? decor
+back garden ? back garden
+outdoor seating ? outdoor seating
+nigiri ? nigiri
+architecture ? architecture
+place ? place
+dinner ? dinner
+drinks ? drinks
+place ? place
+food ? food
+eggplant ? eggplant
+food ? food
+food ? food
+quality of food ? quality of food
+priced ? priced
+mushroom pizza ? mushroom pizza
+cod with paella ? cod with paella
+fish and chips ? fish and chips
+serving ? serving
+fish ? fish
+fries ? fries
+place ? place
+service ? service
+calamari ? calamari
+porcini mushroom pasta special ? porcini mushroom pasta special
+seafood tagliatelle ? seafood tagliatelle
+spicy wontons ? spicy wontons
+salt pepper shrimps ? salt pepper shrimps
+FOOD PORTIONS ? FOOD PORTIONS
+fries ? fries
+staff ? staff
+bar service ? bar service
+Taiwanese food ? Taiwanese food
+food ? food
+pastas ? pastas
+homemade lasagna ? homemade lasagna
+dessert menu ? dessert menu
+tip ? tip
+prices ? prices
+staff ? staff
+service ? service
+music ? music
+in-house lady DJ ? in-house lady DJ
+rolls ? rolls
+wine list ? wine list
+priced ? priced
+hot dogs ? hot dogs
+buns ? buns
+food ? food
+Beef noodle soup ? Beef noodle soup
+Delivery service ? Delivery service
+food ? food
+Thai cuisine ? Thai cuisine
+flavors ? flavors
+service ? service
+pizza ? pizza
+place ? place
+food ? food
+food ? food
+herbs ? herbs
+tomatoes ? tomatoes
+food ? food
+shredded cheese ? shredded cheese
+prices ? prices
+ambience ? ambience
+soup ? soup
+reservation ? reservation
+root vegetables ? root vegetables
+mushroom consomme ? mushroom consomme
+chef ? chef
+served ? served
+food ? food
+ambiance ? ambiance
+service ? service
+wait staff ? wait staff
+Shabu-Shabu dinner ? Shabu-Shabu dinner
+beef ? beef
+pizza ? pizza
+cheese ? cheese
+food ? food
+comfort ? comfort
+decor ? decor
+wait staff ? wait staff
+meals ? meals
+pho ? pho
+vegtables ? vegtables
+service ? service
+ambiance ? ambiance
+food ? food
+presentaion ? presentaion
+taste ? taste
+choice ? choice
+quality ? quality
+quantity ? quantity
+bar scene ? bar scene
+people ? people
+pizza ? pizza
+food ? food
+food ? food
+oil ? oil
+portions ? portions
+sauces ? sauces
+service ? service
+price ? price
+owner ? owner
+pizza ? pizza
+atmosphere ? atmosphere
+food ? food
+wait-staff ? wait-staff
+service ? service
+management ? management
+diner ? diner
+sea urchin ? sea urchin
+service ? service
+food ? food
+bruscetta ? bruscetta
+salads ? salads
+dishes ? dishes
+mix of greens ? mix of greens
+iceberg ? iceberg
+served ? served
+atmosphere ? atmosphere
+prices ? prices
+pickles ? pickles
+General Tao chicken ? General Tao chicken
+Chinese food ? Chinese food
+shrimp appetizers ? shrimp appetizers
+cuisine ? cuisine
+service ? service
+food ? food
+Waiters ? Waiters
+food portions ? food portions
+drinks ? drinks
+entree ? entree
+food ? food
+cold appetizer dishes ? cold appetizer dishes
+bar ? bar
+wines ? wines
+service ? service
+decor ? decor
+reservation ? reservation
+drink ? drink
+bar ? bar
+parmesean porcini souffle ? parmesean porcini souffle
+lamb glazed with balsamic vinegar ? lamb glazed with balsamic vinegar
+food ? food
+gourmet Indian cuisine ? gourmet Indian cuisine
+bar ? bar
+pub ? pub
+corned beef sandwich ? corned beef sandwich
+pizza ? pizza
+Priced ? Priced
+fish ? fish
+food ? food
+amount ? amount
+olive cream cheese ? olive cream cheese
+lox spread ? lox spread
+bagel ? bagel
+service ? service
+server ? server
+table ? table
+music ? music
+rice to fish ration ? rice to fish ration
+rice ? rice
+shredded cheese ? shredded cheese
+food ? food
+selecion of wines ? selecion of wines
+prices ? prices
+wait staff ? wait staff
+Godmother pizza ? Godmother pizza
+dishes ? dishes
+thai cuisine ? thai cuisine
+prices ? prices
+location ? location
+food ? food
+prices ? prices
+food ? food
+crab cocktail ? crab cocktail
+lime juice concoction ? lime juice concoction
+lime ? lime
+menu items ? menu items
+food ? food
+wine ? wine
+service ? service
+dessert ? dessert
+dinner ? dinner
+corned beef ? corned beef
+Chicken pad tai ? Chicken pad tai
+sushi ? sushi
+fish ? fish
+service ? service
+ambiance ? ambiance
+location ? location
+outdoor seating ? outdoor seating
+wine ? wine
+ambience ? ambience
+wine ? wine
+sake ? sake
+dumplings ? dumplings
+crowd ? crowd
+turkey burger ? turkey burger
+salmon ? salmon
+service ? service
+Decor ? Decor
+drinks ? drinks
+food ? food
+prices ? prices
+service ? service
+Chinese food ? Chinese food
+Pizza ? Pizza
+Margheritta ? Margheritta
+place ? place
+Thai food ? Thai food
+menu ? menu
+table ? table
+eel ? eel
+lox ? lox
+mussels ? mussels
+cod ? cod
+trout ? trout
+dinner ? dinner
+crispy chicken ? crispy chicken
+Food ? Food
+meatballs ? meatballs
+caprese salad ? caprese salad
+beans on toast ? beans on toast
+meal ? meal
+place ? place
+atmosphere ? atmosphere
+diners ? diners
+reservations ? reservations
+tables ? tables
+lobby ? lobby
+waiting ? waiting
+wine ? wine
+tapas ? tapas
+pita bread ? pita bread
+waitresses ? waitresses
+price ? price
+service ? service
+menu ? menu
+food ? food
+Dim Sum ? Dim Sum
+variety ? variety
+delivery ? delivery
+service ? service
+food ? food
+service ? service
+seat ? seat
+Dinner ? Dinner
+people ? people
+sandwiches ? sandwiches
+Price ? Price
+fried rice ? fried rice
+staff ? staff
+manager ? manager
+menu selections ? menu selections
+dining experience ? dining experience
+serves ? serves
+front doors ? front doors
+service ? service
+back garden sitting area ? back garden sitting area
+personal herb garden ? personal herb garden
+pastrami sandwiches ? pastrami sandwiches
+Mexican food ? Mexican food
+drinks ? drinks
+wine selection ? wine selection
+priced ? priced
+house salad ? house salad
+ceiling ? ceiling
+check ? check
+table ? table
+glass of water ? glass of water
+french food ? french food
+live music ? live music
+space ? space
+jazz nights ? jazz nights
+Food ? Food
+establishment ? establishment
+entree ? entree
+dessert ? dessert
+staff ? staff
+food ? food
+lemon salad ? lemon salad
+pepper ? pepper
+Pad thai ? Pad thai
+lad nar ? lad nar
+dishes ? dishes
+places ? places
+thai food ? thai food
+food ? food
+price ? price
+front door ? front door
+Guizhou chicken ? Guizhou chicken
+fish with hot bean source ? fish with hot bean source
+fish fillet in spicy source ? fish fillet in spicy source
+special menu ? special menu
+prices ? prices
+open kitchen ? open kitchen
+Pizza ? Pizza
+food ? food
+bhelpuri ? bhelpuri
+sevpuri ? sevpuri
+samosa chaats ? samosa chaats
+indian appetizers ? indian appetizers
+bombay style chaat ? bombay style chaat
+Singapore Mai Fun ? Singapore Mai Fun
+curry flavor ? curry flavor
+manager ? manager
+wine list ? wine list
+food ? food
+dinner location ? dinner location
+Indian restaurant food ? Indian restaurant food
+AT MOSHPHERE ? AT MOSHPHERE
+pizza ? pizza
+Thai food ? Thai food
+service ? service
+waiter ? waiter
+water ? water
+food ? food
+bill ? bill
+reservations ? reservations
+tips ? tips
+stuff ? stuff
+sea bass ? sea bass
+sushi ? sushi
+sushi places ? sushi places
+quality ? quality
+Sushi ? Sushi
+price ? price
+management ? management
+meal ? meal
+round of drinks ? round of drinks
+toaster ? toaster
+food ? food
+taste ? taste
+menu choices ? menu choices
+flavor ? flavor
+Dosa ? Dosa
+portions ? portions
+appetizer ? appetizer
+entree ? entree
+appetizers ? appetizers
+main courses ? main courses
+dessert ? dessert
+exotic food ? exotic food
+staff ? staff
+table ? table
+mediterranean salad ? mediterranean salad
+People ? People
+cream cheeses ? cream cheeses
+coffee ? coffee
+entrees ? entrees
+sides ? sides
+drinks ? drinks
+Service ? Service
+beef version ? beef version
+beef ? beef
+decor ? decor
+thai ? thai
+wine ? wine
+beer ? beer
+house varities ? house varities
+served ? served
+owners ? owners
+cost ? cost
+pudding dessert ? pudding dessert
+vegetable samosa ? vegetable samosa
+malai tikka wrap ? malai tikka wrap
+chef ? chef
+waitress ? waitress
+drinks ? drinks
+wine selection ? wine selection
+bar ? bar
+waiting ? waiting
+table ? table
+meal ? meal
+goat cheese ? goat cheese
+panchetta ? panchetta
+raddichio ? raddichio
+food ? food
+service ? service
+food ? food
+service ? service
+kinds of beer ? kinds of beer
+drink ? drink
+price ? price
+portions ? portions
+bartender ? bartender
+champagne ? champagne
+turnip soup with pureed basil ? turnip soup with pureed basil
+food ? food
+service ? service
+dish ? dish
+Thai spiced curry noodles with shrimp ? Thai spiced curry noodles with shrimp
+dish ? dish
+cost ? cost
+atmosphere ? atmosphere
+music ? music
+portions ? portions
+portion ? portion
+main course ? main course
+thai ? thai
+brunch ? brunch
+nightcap ? nightcap
+food suggestions ? food suggestions
+server ? server
+sommelier ? sommelier
+fromager ? fromager
+wine ? wine
+cheese ? cheese
+back garden ? back garden
+reservation ? reservation
+Japanese food ? Japanese food
+food ? food
+service ? service
+Service ? Service
+price category ? price category
+entertainment ? entertainment
+reservations ? reservations
+pizza ? pizza
+food ? food
+lunch ? lunch
+seved ? seved
+signs ? signs
+specials menus ? specials menus
+food ? food
+waitstaff ? waitstaff
+scallop roll ? scallop roll
+sesame chicken ? sesame chicken
+food ? food
+bill ? bill
+nori-wrapped tuna ? nori-wrapped tuna
+dish ? dish
+food ? food
+servers ? servers
+food ? food
+fast food ? fast food
+food ? food
+seafood ? seafood
+staff ? staff
+all you can eat deal ? all you can eat deal
+dish ? dish
+taste ? taste
+dishes ? dishes
+meat patties in steamed buns ? meat patties in steamed buns
+pizzas ? pizzas
+price ? price
+FOOD ? FOOD
+Ambiance ? Ambiance
+food ? food
+waiter ? waiter
+dining room ? dining room
+music ? music
+sushi ? sushi
+fish ? fish
+menu ? menu
+variety of dishes ? variety of dishes
+seafood ? seafood
+white bean brushetta ? white bean brushetta
+pasta ? pasta
+menu ? menu
+eats ? eats
+menu ? menu
+food ? food
+lay out ? lay out
+service ? service
+cart attendant ? cart attendant
+lotus leaf wrapped rice ? lotus leaf wrapped rice
+rice ? rice
+seated ? seated
+wait staff ? wait staff
+waitstaff ? waitstaff
+service ? service
+food ? food
+feel ? feel
+taste ? taste
+price ? price
+food ? food
+service ? service
+flavors ? flavors
+menu ? menu
+food ? food
+service ? service
+ambience ? ambience
+interior ? interior
+place ? place
+food ? food
+sashimi plate ? sashimi plate
+atmosphere ? atmosphere
+waitress ? waitress
+servants ? servants
+food ? food
+service ? service
+food ? food
+noise ? noise
+chicken dish ? chicken dish
+manager ? manager
+dish ? dish
+food ? food
+lunch ? lunch
+Bartender ? Bartender
+bar ? bar
+food ? food
+prix fixe lunch ? prix fixe lunch
+buffet ? buffet
+place ? place
+food ? food
+service ? service
+drinks ? drinks
+appetizers ? appetizers
+hot bagel ? hot bagel
+chicken ? chicken
+oil ? oil
+pepper powder ? pepper powder
+sauce ? sauce
+waiter ? waiter
+drinks ? drinks
+food ? food
+service ? service
+tip ? tip
+glass of Sangria ? glass of Sangria
+table by the window ? table by the window
+food ? food
+service ? service
+waiter ? waiter
+service ? service
+service ? service
+menu ? menu
+food ? food
+food ? food
+jalapeno ? jalapeno
+pad see ew ? pad see ew
+dishes ? dishes
+back patio ? back patio
+music ? music
+location ? location
+Guacamole+shrimp appetizer ? Guacamole+shrimp appetizer
+filet ? filet
+frites ? frites
+filet ? filet
+lunch special ? lunch special
+food ? food
+food ? food
+price ? price
+The chicken pot pie ? The chicken pot pie
+cheeseburger ? cheeseburger
+service ? service
+food ? food
+ambience ? ambience
+employees ? employees
+dinner ? dinner
+brunch ? brunch
+prices ? prices
+staff ? staff
+Service ? Service
+food ? food
+service ? service
+meal ? meal
+spicy ethnic foods ? spicy ethnic foods
+dinner ? dinner
+snacking ? snacking
+quality of food ? quality of food
+live jazz ? live jazz
+food ? food
+SEASONAL beer ? SEASONAL beer
+bartender ? bartender
+ambiance ? ambiance
+food ? food
+sandwiches ? sandwiches
+Service ? Service
+food ? food
+atmosphere ? atmosphere
+course ? course
+staff ? staff
+service ? service
+cook ? cook
+Yellowtail ? Yellowtail
+clams oreganta ? clams oreganta
+salad with perfectly marinated cucumbers and tomatoes with lots of shrimp and basil ? salad with perfectly marinated cucumbers and tomatoes with lots of shrimp and basil
+menu ? menu
+portions ? portions
+lentil dish ? lentil dish
+basmati rice dish ? basmati rice dish
+flavor ? flavor
+menu ? menu
+cigar bar ? cigar bar
+staff ? staff
+ambient ? ambient
+sushi ? sushi
+cheescake ? cheescake
+Bill ? Bill
+delivery ? delivery
+entertaining ? entertaining
+ambience ? ambience
+drink ? drink
+Fluke sashimi ? Fluke sashimi
+jalapeno-lime olive oil ? jalapeno-lime olive oil
+fruit of the oil ? fruit of the oil
+fish ? fish
+sushi ? sushi
+meal ? meal
+price ? price
+rice ? rice
+steak au poivre ? steak au poivre
+staff ? staff
+ambiance ? ambiance
+owner ? owner
+congee ? congee
+bread ? bread
+donut like deep fried dough they call Ow Ley Soh ? donut like deep fried dough they call Ow Ley Soh
+candle-light ? candle-light
+food-quality ? food-quality
+service ? service
+tables ? tables
+food ? food
+waiter ? waiter
+caviar ? caviar
+waitstaff ? waitstaff
+food ? food
+ethnic food ? ethnic food
+place ? place
+food ? food
+money ? money
+place ? place
+Ambience ? Ambience
+service ? service
+Service ? Service
+AC ? AC
+people ? people
+cooks ? cooks
+sushi rolls ? sushi rolls
+prices ? prices
+dinner menu to sit ? dinner menu to sit
+take out ? take out
+staff ? staff
+food ? food
+place ? place
+Scallion Pancake ? Scallion Pancake
+vegetable juice ? vegetable juice
+Guizhou Chicken ? Guizhou Chicken
+Shredded Squid Family Style ? Shredded Squid Family Style
+Sichuan Spicy Soft Shell Crab ? Sichuan Spicy Soft Shell Crab
+Shuizhu Fish ? Shuizhu Fish
+Sichuan food ? Sichuan food
+spinach mushroom calzone ? spinach mushroom calzone
+canned vegetables ? canned vegetables
+food ? food
+Blue Point oysters ? Blue Point oysters
+beer ? beer
+glass of wine ? glass of wine
+noodle dishes ? noodle dishes
+Green Curry dish ? Green Curry dish
+prices ? prices
+service ? service
+food ? food
+atmoshere ? atmoshere
+spicy tuna roll ? spicy tuna roll
+rock shrimp tempura ? rock shrimp tempura
+appetizer ? appetizer
+staff ? staff
+staff ? staff
+cost ? cost
+meal ? meal
+seat ? seat
+dessert ? dessert
+White Chocolate Bread Pudding with Gelato and hot chocolate ? White Chocolate Bread Pudding with Gelato and hot chocolate
+dinner ? dinner
+banana tower ? banana tower
+dessert ? dessert
+atmosphere ? atmosphere
+dishes ? dishes
+service ? service
+place ? place
+drinks ? drinks
+desserts ? desserts
+vibe ? vibe
+food ? food
+food ? food
+service ? service
+dinner ? dinner
+table ? table
+icing on the cake ? icing on the cake
+tiramisu ? tiramisu
+food ? food
+prices ? prices
+Wine list ? Wine list
+bar ? bar
+food ? food
+beer ? beer
+specials ? specials
+ambience ? ambience
+service ? service
+french cuisine ? french cuisine
+portions ? portions
+Drinks ? Drinks
+vegetarian entree ? vegetarian entree
+Abby's treasure ? Abby's treasure
+wintermelon ? wintermelon
+assortment of fresh mushrooms and vegetables ? assortment of fresh mushrooms and vegetables
+dumplings ? dumplings
+pizza ? pizza
+staff ? staff
+Steak au Poivre ? Steak au Poivre
+Onglet ? Onglet
+Service ? Service
+prices ? prices
+reputation ? reputation
+meal ? meal
+drink ? drink
+food ? food
+spinach and corn dumplings ? spinach and corn dumplings
+service ? service
+bathroom ? bathroom
+massamman curry ? massamman curry
+dinner ? dinner
+ceiling ? ceiling
+dinner ? dinner
+chow fun and chow see ? chow fun and chow see
+table ? table
+reservation ? reservation
+seated ? seated
+pita ? pita
+naan ? naan
+menu ? menu
+oysters ? oysters
+grilled cheese ? grilled cheese
+doors ? doors
+service ? service
+food ? food
+food ? food
+food ? food
+service ? service
+service ? service
+good ? good
+waitress ? waitress
+check ? check
+terrace ? terrace
+design ? design
+drinks ? drinks
+food ? food
+bar ? bar
+bar ? bar
+seafood ? seafood
+place ? place
+service ? service
+prices ? prices
+service ? service
+cheese ? cheese
+menu ? menu
+atmoshere ? atmoshere
+Japanese cuisine ? Japanese cuisine
+food ? food
+appetizers ? appetizers
+Jazz bands ? Jazz bands
+hostess ? hostess
+wait ? wait
+table ? table
+servers ? servers
+service ? service
+dish ? dish
+tables ? tables
+staff ? staff
+ambiance ? ambiance
+food ? food
+food ? food
+halibut special ? halibut special
+steak ? steak
+service ? service
+manager ? manager
+bill ? bill
+japanese comfort food ? japanese comfort food
+half price sushi deal ? half price sushi deal
+reservation ? reservation
+seated ? seated
+appetizer platter ? appetizer platter
+staff ? staff
+dress codes ? dress codes
+attitudes ? attitudes
+place ? place
+pieces of sushi ? pieces of sushi
+pasta ? pasta
+menu ? menu
+dumplings ? dumplings
+appetizer ? appetizer
+jewish deli food ? jewish deli food
+manager ? manager
+toaster ? toaster
+Neapolitan pizza ? Neapolitan pizza
+zucchini blossoms ? zucchini blossoms
+Wait staff ? Wait staff
+pie ? pie
+ingredients ? ingredients
+crust ? crust
+slice ? slice
+Fish ? Fish
+prices ? prices
+service ? service
+food ? food
+Vietnamese classics ? Vietnamese classics
+wait time ? wait time
+decor ? decor
+fish tanks ? fish tanks
+owner ? owner
+pizza ? pizza
+beef ? beef
+noodle soup dishes ? noodle soup dishes
+menu ? menu
+cream cheeses ? cream cheeses
+salads ? salads
+lobster sandwich ? lobster sandwich
+spaghetti with Scallops and Shrimp ? spaghetti with Scallops and Shrimp
+food ? food
+dim sum ? dim sum
+prices ? prices
+spinach ravioli in a light oil and garlic sauce ? spinach ravioli in a light oil and garlic sauce
+dish ? dish
+dishes ? dishes
+Japanese food ? Japanese food
+Chicken Teriyaki dish ? Chicken Teriyaki dish
+chicken ? chicken
+reservations ? reservations
+Pam's special fried fish ? Pam's special fried fish
+service ? service
+New England Chowder ? New England Chowder
+Lobster Bisque ? Lobster Bisque
+pizzas ? pizzas
+sushi ? sushi
+wines by the glass ? wines by the glass
+duck breast special ? duck breast special
+food ? food
+french indian fusion ? french indian fusion
+dishes ? dishes
+seat ? seat
+bar ? bar
+food ? food
+wait ? wait
+fried shrimp ? fried shrimp
+food ? food
+service ? service
+table ? table
+appetizer ? appetizer
+cheese fondue ? cheese fondue
+table ? table
+reservations ? reservations
+manager ? manager
+reservation ? reservation
+bar ? bar
+wait ? wait
+green curry ? green curry
+scallops ? scallops
+appetizer ? appetizer
+sauce ? sauce
+service ? service
+reservation ? reservation
+food ? food
+dinner ? dinner
+drinks ? drinks
+bar ? bar
+beers ? beers
+wines ? wines
+priced ? priced
+reservations ? reservations
+food ? food
+wine selection ? wine selection
+Gigondas ? Gigondas
+house champagne ? house champagne
+price ? price
+music ? music
+fish ? fish
+yellowfun tuna ? yellowfun tuna
+mussel selection ? mussel selection
+bagel ? bagel
+scenery ? scenery
+dinner reservations ? dinner reservations
+place ? place
+Cheese plate ? Cheese plate
+glasses of water ? glasses of water
+service ? service
+servers ? servers
+Service ? Service
+Godmother pizza (a sort of traditional flat pizza with an olive oil-brushed crust and less tomato sauce than usual) ? Godmother pizza (a sort of traditional flat pizza with an olive oil-brushed crust and less tomato sauce than usual)
+specials ? specials
+sandwich ? sandwich
+plastic forks ? plastic forks
+pita ? pita
+hummus platter ? hummus platter
+steak ? steak
+fish ? fish
+sushi ? sushi
+pizza ? pizza
+service ? service
+staff ? staff
+cocktails ? cocktails
+decor ? decor
+sushi ? sushi
+apple tarte tatin ? apple tarte tatin
+dinner ? dinner
+buffet ? buffet
+selection ? selection
+Waitstaff ? Waitstaff
+Service ? Service
+food ? food
+chocolate ? chocolate
+food ? food
+service ? service
+ambience ? ambience
+SHOWS ? SHOWS
+ACTORS ? ACTORS
+New York Bagel ? New York Bagel
+service ? service
+miso soup ? miso soup
+fish ? fish
+flavor ? flavor
+bagels ? bagels
+ambience ? ambience
+food ? food
+space ? space
+filets ? filets
+sides ? sides
+appetizer ? appetizer
+drinks ? drinks
+prices ? prices
+portions ? portions
+location ? location
+meal ? meal
+dinner ? dinner
+spot ? spot
+menu ? menu
+food ? food
+Prix Fixe ? Prix Fixe
+wine list ? wine list
+waitress ? waitress
+staff ? staff
+quail ? quail
+pastas ? pastas
+flavor ? flavor
+zucchini ? zucchini
+mashed potatoes ? mashed potatoes
+garlic ? garlic
+butter ? butter
+staff ? staff
+Decor ? Decor
+service ? service
+service ? service
+food ? food
+drinks ? drinks
+Spicy Scallop roll ? Spicy Scallop roll
+Indian dining experience ? Indian dining experience
+Pub atmosphere ? Pub atmosphere
+sushi ? sushi
+workers ? workers
+order ? order
+specials ? specials
+desserts ? desserts
+mixed drinks ? mixed drinks
+snack foods ? snack foods
+chocolate mud cake (warmed) ? chocolate mud cake (warmed)
+dulce de leche gelato ? dulce de leche gelato
+stauff ? stauff
+classical furniture ? classical furniture
+menu ? menu
+burger ? burger
+menu ? menu
+cole slaw ? cole slaw
+knish ? knish
+dinner ? dinner
+reservations ? reservations
+blond wood decor ? blond wood decor
+sake ? sake
+service ? service
+wait ? wait
+money ? money
+bagel ? bagel
+eggs ? eggs
+bagel ? bagel
+glass of wine ? glass of wine
+wait staff ? wait staff
+atmosphere ? atmosphere
+bagel ? bagel
+Service ? Service
+chicken tikka-masala ? chicken tikka-masala
+garlic naan ? garlic naan
+dinner ? dinner
+dinner ? dinner
+setting ? setting
+Food ? Food
+view ? view
+food ? food
+menu description ? menu description
+Pad Se-Ew ? Pad Se-Ew
+Chicken with Cashew Nuts ? Chicken with Cashew Nuts
+pizza ? pizza
+food ? food
+ambience ? ambience
+service ? service
+specials ? specials
+atmosphere ? atmosphere
+French bistro fare ? French bistro fare
+food ? food
+Shabu-Shabu ? Shabu-Shabu
+food ? food
+Food ? Food
+dinner special ? dinner special
+food ? food
+people with carts of food ? people with carts of food
+crackling calamari salad ? crackling calamari salad
+sushi place ? sushi place
+group dinner ? group dinner
+Thai ice tea ? Thai ice tea
+staff ? staff
+Drinks ? Drinks
+priced ? priced
+noise level ? noise level
+guy ? guy
+food ? food
+prices ? prices
+meals ? meals
+food ? food
+food ? food
+roofdeck ? roofdeck
+music ? music
+manager ? manager
+service ? service
+sesame crusted Salmon ? sesame crusted Salmon
+lunch ? lunch
+food ? food
+service ? service
+crowd ? crowd
+noise ? noise
+eats ? eats
+drinks ? drinks
+setting ? setting
+service ? service
+served ? served
+atmosphere ? atmosphere
+people ? people
+food ? food
+desserts ? desserts
+drinks ? drinks
+Waiters ? Waiters
+dinner ? dinner
+brunch ? brunch
+lunch ? lunch
+menu ? menu
+beef cubes ? beef cubes
+chicken with chili and lemon grass ? chicken with chili and lemon grass
+music ? music
+bread ? bread
+lamb chops ? lamb chops
+meal ? meal
+service ? service
+atmosphere ? atmosphere
+beer ? beer
+noodles ? noodles
+sugar ? sugar
+dishes ? dishes
+Chicken Tikka Masala ? Chicken Tikka Masala
+dumplings ? dumplings
+decor ? decor
+kitchen ? kitchen
+corned beef ? corned beef
+pastrami ? pastrami
+wait staff ? wait staff
+place ? place
+hostess ? hostess
+people ? people
+plain slice ? plain slice
+toppings ? toppings
+Service ? Service
+ambience ? ambience
+Service ? Service
+takeout ? takeout
+pizza ? pizza
+menu ? menu
+view ? view
+quality of food ? quality of food
+fish tanks ? fish tanks
+wait ? wait
+service ? service
+fish ? fish
+live jazz band ? live jazz band
+atmosphere ? atmosphere
+Lobster Cobb Salad ? Lobster Cobb Salad
+tea room ? tea room
+meal ? meal
+apppetizers ? apppetizers
+staff ? staff
+dinner ? dinner
+sandwiches ? sandwiches
+chips ? chips
+side ? side
+wait ? wait
+dim sum ? dim sum
+dim sum atmosphere ? dim sum atmosphere
+tables ? tables
+money ? money
+indian food ? indian food
+service ? service
+decor ? decor
+Thai food ? Thai food
+selection of wine ? selection of wine
+seafood ? seafood
+prices ? prices
+sushi bar ? sushi bar
+taste ? taste
+price ? price
+French food ? French food
+service ? service
+table ? table
+food ? food
+prices ? prices
+Salads ? Salads
+meal ? meal
+tamarind duck ? tamarind duck
+noodles with ground beef ? noodles with ground beef
+dishes ? dishes
+Thai flavors ? Thai flavors
+view ? view
+prices ? prices
+entree ? entree
+dinner ? dinner
+lunch ? lunch
+prices ? prices
+cuisine ? cuisine
+black cod with yuzu sauce ? black cod with yuzu sauce
+Prices ? Prices
+spot ? spot
+wait ? wait
+reservations ? reservations
+bread ? bread
+salad ? salad
+service ? service
+food ? food
+wait ? wait
+pizza ? pizza
+sicilian ? sicilian
+Downstairs lounge ? Downstairs lounge
+menu prices ? menu prices
+quality ? quality
+portion size ? portion size
+food ? food
+service ? service
+food ? food
+busboy ? busboy
+waiter ? waiter
+cheese ? cheese
+pasta ? pasta
+water and wine glasses ? water and wine glasses
+wine ? wine
+meal ? meal
+takeout ? takeout
+food ? food
+sauces ? sauces
+prix fixe meal ? prix fixe meal
+ambiance ? ambiance
+night scene ? night scene
+spot ? spot
+expresso ? expresso
+waitress ? waitress
+shows ? shows
+actors ? actors
+service ? service
+food ? food
+hot sauce ? hot sauce
+meals ? meals
+food ? food
+ambiance ? ambiance
+service ? service
+dining ? dining
+thai popcorn ? thai popcorn
+drinks ? drinks
+decor ? decor
+food ? food
+chef ? chef
+check ? check
+parathas ? parathas
+kebabs ? kebabs
+tuna ? tuna
+wasabe potatoes ? wasabe potatoes
+coat check girls ? coat check girls
+coat check girls ? coat check girls
+food ? food
+beer ? beer
+desserts ? desserts
+cannoli ? cannoli
+after dinner drink ? after dinner drink
+outdoor seating ? outdoor seating
+vibe ? vibe
+prix fixe pricing ? prix fixe pricing
+room ? room
+area ? area
+owners ? owners
+ambiance ? ambiance
+tanks ? tanks
+tanks ? tanks
+dim sum ? dim sum
+brunch ? brunch
+Halibut ? Halibut
+dessert ? dessert
+service ? service
+view ? view
+food ? food
+place ? place
+food ? food
+bagels ? bagels
+cream cheese ? cream cheese
+food ? food
+service ? service
+priced ? priced
+service ? service
+food ? food
+chicken casserole ? chicken casserole
+chicken ? chicken
+meat ? meat
+mezzanine ? mezzanine
+Valentines Day dinner ? Valentines Day dinner
+jelly fish ? jelly fish
+drunken chicken ? drunken chicken
+soupy dumplings ? soupy dumplings
+stir fry blue crab ? stir fry blue crab
+SHOWS ? SHOWS
+dumplings ? dumplings
+meal ? meal
+dumpling menu ? dumpling menu
+aesthetics ? aesthetics
+place ? place
+box wine ? box wine
+food ? food
+fish ? fish
+staff ? staff
+sushi chef ? sushi chef
+food ? food
+service ? service
+pizza ? pizza
+atmoshpere ? atmoshpere
+seats ? seats
+roll ? roll
+menu ? menu
+food ? food
+rolls ? rolls
+sashimi ? sashimi
+pesto pizza ? pesto pizza
+Italian cheese ? Italian cheese
+thin-crust pizza ? thin-crust pizza
+shrimp appetizer ? shrimp appetizer
+price ? price
+lamb vindaloo ? lamb vindaloo
+ambience ? ambience
+food ? food
+Food ? Food
+wait ? wait
+dinners ? dinners
+beef ? beef
+spices ? spices
+onions ? onions
+eggs ? eggs
+roti ? roti
+food ? food
+price ? price
+table ? table
+menu ? menu
+potato pancakes ? potato pancakes
+fried dumpling ? fried dumpling
+staff ? staff
+service ? service
+primi ? primi
+secondi ? secondi
+portions ? portions
+employees ? employees
+dining area ? dining area
+crab cakes ? crab cakes
+dining experience ? dining experience
+service ? service
+staff ? staff
+waiter ? waiter
+bruschetta ? bruschetta
+panini ? panini
+Food ? Food
+waitress ? waitress
+wait ? wait
+Sichuan chef ? Sichuan chef
+spicy tuna roll ? spicy tuna roll
+serving ? serving
+nori ? nori
+patio ? patio
+Pastrami ? Pastrami
+portion ? portion
+food ? food
+drinks ? drinks
+courses ? courses
+chocolate sampler ? chocolate sampler
+dessert wine ? dessert wine
+Butter ? Butter
+white wine ? white wine
+cheese ? cheese
+private room ? private room
+ambience ? ambience
+place ? place
+aisle ? aisle
+pre-fixe menu ? pre-fixe menu
+choices per course ? choices per course
+ordering a la carte ? ordering a la carte
+Pakistani food ? Pakistani food
+staff ? staff
+chef ? chef
+eggplant parmesan ? eggplant parmesan
+baked ziti with meatsauce ? baked ziti with meatsauce
+serves ? serves
+ingredients ? ingredients
+price ? price
+Service ? Service
+hot pot with seafood ? hot pot with seafood
+shrimp ? shrimp
+squid ? squid
+entree ? entree
+crabmeat ? crabmeat
+cheese fondue ? cheese fondue
+kielbasa ? kielbasa
+apples ? apples
+value ? value
+lunch ? lunch
+curry ? curry
+food ? food
+food ? food
+menu ? menu
+table ? table
+seated ? seated
+white sauce ? white sauce
+Chinese food ? Chinese food
+bread ? bread
+paratha bread ? paratha bread
+bread ? bread
+stuffing ? stuffing
+tandoori ? tandoori
+Service ? Service
+prices ? prices
+delivery time ? delivery time
+pizza ? pizza
+food ? food
+food ? food
+price ? price
+food ? food
+food ? food
+food ? food
+service ? service
+decor ? decor
+food ? food
+portions ? portions
+service ? service
+food ? food
+Thai noodles with shrimp and chicken and coconut juice ? Thai noodles with shrimp and chicken and coconut juice
+pizza ? pizza
+menu items ? menu items
+Food ? Food
+place ? place
+food ? food
+food ? food
+portion sizes ? portion sizes
+Kosher dills ? Kosher dills
+sandwich ? sandwich
+shows ? shows
+dinner ? dinner
+entertainment ? entertainment
+food ? food
+waiters ? waiters
+food ? food
+wait ? wait
+bartender ? bartender
+sushi ? sushi
+Kamikaze ? Kamikaze
+Rolls ? Rolls
+Thai food ? Thai food
+mayonaisse ? mayonaisse
+food runners ? food runners
+bill ? bill
+fries ? fries
+braised lamb shank in red wine ? braised lamb shank in red wine
+special ? special
+wines ? wines
+wine list ? wine list
+waitstaff ? waitstaff
+food ? food
+iced tea ? iced tea
+salmon ? salmon
+chicken ? chicken
+servings ? servings
+entree ? entree
+salads ? salads
+lettuce ? lettuce
+ambience ? ambience
+place ? place
+bar ? bar
+tables ? tables
+waiter ? waiter
+bartender ? bartender
+atmosphere ? atmosphere
+food ? food
+price ? price
+fried dumplings ? fried dumplings
+prices ? prices
+Obv caviar ? Obv caviar
+menu ? menu
+dishes ? dishes
+food ? food
+dining experiences ? dining experiences
+food ? food
+pizza ? pizza
+santa fe chopped salad ? santa fe chopped salad
+fish and chips ? fish and chips
+ambience ? ambience
+service ? service
+pizza ? pizza
+Tuna roll ? Tuna roll
+price range ? price range
+Price ? Price
+fish ? fish
+quality ? quality
+waiter ? waiter
+place ? place
+dishes ? dishes
+wine ? wine
+atmosphere ? atmosphere
+served ? served
+comfort food ? comfort food
+ingredients ? ingredients
+technique ? technique
+lunch ? lunch
+dinner ? dinner
+pastrami sandwich ? pastrami sandwich
+table ? table
+atomosphere ? atomosphere
+room ? room
+spot ? spot
+fish ? fish
+rice ? rice
+price ? price
+dish ? dish
+lunch special ? lunch special
+Indian Fast Food ? Indian Fast Food
+service ? service
+money ? money
+tip ? tip
+wine list ? wine list
+Service ? Service
+oysters ? oysters
+price ? price
+bagel ? bagel
+italian food ? italian food
+service ? service
+prices ? prices
+atmosphere ? atmosphere
+menu ? menu
+drinks ? drinks
+atmosphere ? atmosphere
+food ? food
+food ? food
+portions ? portions
+place ? place
+place ? place
+service ? service
+Ambiance ? Ambiance
+management ? management
+portions ? portions
+appetizers ? appetizers
+appetizer ? appetizer
+main entree ? main entree
+cold udon ? cold udon
+chef ? chef
+menu ? menu
+dish ? dish
+portions ? portions
+food ? food
+rice ? rice
+sashimi ? sashimi
+portions ? portions
+main course ? main course
+waiter ? waiter
+snapple ? snapple
+apps ? apps
+Service ? Service
+decor ? decor
+dosas ? dosas
+popcorn topping ? popcorn topping
+service ? service
+food ? food
+scene ? scene
+customers ? customers
+seafood ? seafood
+ladies ? ladies
+wait ? wait
+food ? food
+people serving ? people serving
+food ? food
+fillings ? fillings
+dosa batter ? dosa batter
+lunch ? lunch
+dinner ? dinner
+pre-theatre or after-theatre drinks ? pre-theatre or after-theatre drinks
+spot ? spot
+mussaman curry ? mussaman curry
+fried tofu ? fried tofu
+potato ? potato
+dinner ? dinner
+food ? food
+service ? service
+atmosphere ? atmosphere
+sake martini ? sake martini
+place ? place
+Gnochi ? Gnochi
+dining ? dining
+service ? service
+Bagels ? Bagels
+quality ? quality
+price ? price
+lunch buffet ? lunch buffet
+food ? food
+rice ? rice
+dinner ? dinner
+portions ? portions
+food ? food
+serve ? serve
+setting ? setting
+service ? service
+food ? food
+prices ? prices
+appetizer ? appetizer
+entrees ? entrees
+cokes ? cokes
+bill ? bill
+drumsticks over rice ? drumsticks over rice
+sour spicy soup ? sour spicy soup
+wines ? wines
+whitefish salad ? whitefish salad
+whitefish ? whitefish
+mayo ? mayo
+price ? price
+congee ? congee
+noodles ? noodles
+rice dishes ? rice dishes
+chicken parm ? chicken parm
+chicken with portobello mushrooms ? chicken with portobello mushrooms
+chicken ? chicken
+tomato sauce ? tomato sauce
+pasta ? pasta
+sauce ? sauce
+meal ? meal
+waitresses ? waitresses
+counter service ? counter service
+staff member ? staff member
+bar ? bar
+guy ? guy
+food ? food
+prices ? prices
+service ? service
+staff ? staff
+upstairs ? upstairs
+red curry ? red curry
+pad thai ? pad thai
+rice ? rice
+seafood ? seafood
+wine list ? wine list
+meal ? meal
+priced ? priced
+Saul ? Saul
+food ? food
+appetizers ? appetizers
+Price ? Price
+Quality ? Quality
+table ? table
+dinner ? dinner
+pad penang ? pad penang
+food ? food
+walls ? walls
+flavors ? flavors
+people ? people
+hanger steak ? hanger steak
+tuna ? tuna
+pizza ? pizza
+lunch food ? lunch food
+food ? food
+food ? food
+food ? food
+quasi-thai ? quasi-thai
+salad ? salad
+fast food ? fast food
+bar ? bar
+bagels ? bagels
+bagel ? bagel
+bagels ? bagels
+barebecued salmon ? barebecued salmon
+owner ? owner
+portions ? portions
+workers ? workers
+bagel ? bagel
+cream cheese ? cream cheese
+wine ? wine
+service ? service
+menu ? menu
+chai tea ? chai tea
+food ? food
+Spicy Tuna hand rolls ? Spicy Tuna hand rolls
+food ? food
+ambiance ? ambiance
+decor ? decor
+atmosphere ? atmosphere
+meat dishes ? meat dishes
+hostess ? hostess
+atmosphere ? atmosphere
+menu ? menu
+brassiere food ? brassiere food
+food ? food
+quality ? quality
+atmosphere ? atmosphere
+Manager ? Manager
+staff ? staff
+service ? service
+food ? food
+atmosphere ? atmosphere
+service ? service
+server ? server
+prix fix ? prix fix
+three course meal ? three course meal
+glasses of wine ? glasses of wine
+course ? course
+water ? water
+service ? service
+place ? place
+sushi ? sushi
+pizza ? pizza
+ingredients ? ingredients
+Thali ? Thali
+sushi ? sushi
+chef app ? chef app
+delicate butternut squash ravioli in a delicious truffle sauce ? delicate butternut squash ravioli in a delicious truffle sauce
+buttery and tender langostine entree ? buttery and tender langostine entree
+dessert ? dessert
+Cakebread Cabernet ? Cakebread Cabernet
+waiter ? waiter
+food ? food
+cheesecake ? cheesecake
+pastries ? pastries
+staff ? staff
+bar ? bar
+drinks ? drinks
+menu ? menu
+makhani ? makhani
+korma ? korma
+food ? food
+service ? service
+decor ? decor
+place ? place
+place ? place
+lox ? lox
+Service ? Service
+thai food ? thai food
+Food ? Food
+fish ? fish
+chinese food ? chinese food
+foie gras terrine with figs ? foie gras terrine with figs
+duck confit ? duck confit
+staff ? staff
+service ? service
+staff ? staff
+service ? service
+Gulab Jamun (dessert) ? Gulab Jamun (dessert)
+waiter ? waiter
+price ? price
+freshness ? freshness
+value ? value
+quality ? quality
+place ? place
+food ? food
+wine ? wine
+prices ? prices
+brioche and lollies ? brioche and lollies
+meal ? meal
+2-person table ? 2-person table
+bill ? bill
+service ? service
+food ? food
+wine list ? wine list
+priced ? priced
+wait staff ? wait staff
+Salads ? Salads
+owners ? owners
+employees ? employees
+pizza ? pizza
+food ? food
+mussels in spicy tomato sauce ? mussels in spicy tomato sauce
+fries ? fries
+food ? food
+dessert ? dessert
+bagel ? bagel
+servers ? servers
+service ? service
+ambience ? ambience
+case of snapple ? case of snapple
+food ? food
+service ? service
+staff ? staff
+bar ? bar
+chicken ? chicken
+beef ? beef
+lamb dishes ? lamb dishes
+service ? service
+food ? food
+quality ? quality
+care ? care
+food ? food
+specials ? specials
+decor ? decor
+priced ? priced
+food ? food
+service ? service
+waiters ? waiters
+noodles ? noodles
+dimsum ? dimsum
+service ? service
+view ? view
+staff ? staff
+food ? food
+atmosphere ? atmosphere
+food ? food
+prices ? prices
+dinner ? dinner
+soup ? soup
+pepper ? pepper
+sushimi cucumber roll ? sushimi cucumber roll
+food ? food
+wines by the glass ? wines by the glass
+wine ? wine
+place ? place
+ambience ? ambience
+staff ? staff
+salt ? salt
+sushi ? sushi
+atmosphere ? atmosphere
+food ? food
+service ? service
+bagels ? bagels
+dinner ? dinner
+Service ? Service
+staff ? staff
+potato chips ? potato chips
+bar ? bar
+portions ? portions
+table ? table
+pasta entre'es ? pasta entre'es
+steak ? steak
+butter ? butter
+flavor ? flavor
+meat ? meat
+food ? food
+ambience ? ambience
+lunch ? lunch
+menu ? menu
+rolls ? rolls
+dishes ? dishes
+service ? service
+food ? food
+drinks ? drinks
+atmosphere ? atmosphere
+customer service ? customer service
+place ? place
+oyster ? oyster
+Fish ? Fish
+sushi bar ? sushi bar
+chef ? chef
+ala carte ? ala carte
+vibe ? vibe
+service ? service
+food ? food
+table ? table
+quality ? quality
+service ? service
+atmosphere ? atmosphere
+bagels ? bagels
+Pad See Ew ? Pad See Ew
+Pork Chops ? Pork Chops
+Tofu plates ? Tofu plates
+taste ? taste
+quantity ? quantity
+bartender ? bartender
+food ? food
+drinks ? drinks
+steak with portobello mushrooms ? steak with portobello mushrooms
+bar ? bar
+service ? service
+main course ? main course
+portion ? portion
+reservation ? reservation
+cocktails ? cocktails
+surroundings ? surroundings
+Waitstaff ? Waitstaff
+dinner menu ? dinner menu
+CUISINE ? CUISINE
+Indian food ? Indian food
+dishes ? dishes
+wait ? wait
+noise ? noise
+rush ? rush
+bill ? bill
+bagels ? bagels
+spot ? spot
+service ? service
+delivery ? delivery
+bill ? bill
+bar ? bar
+bartender ? bartender
+service ? service
+ambiance ? ambiance
+calamari ? calamari
+sauce ? sauce
+duck noodles ? duck noodles
+martinis ? martinis
+comfort food ? comfort food
+portions ? portions
+rolls ? rolls
+menu ? menu
+avocado ? avocado
+rice ? rice
+drink refills ? drink refills
+dessert ? dessert
+bagels ? bagels
+priced ? priced
+business dinner ? business dinner
+table ? table
+Decor ? Decor
+food ? food
+waiter ? waiter
+place ? place
+prices ? prices
+food ? food
+toppings ? toppings
+place ? place
+Meal ? Meal
+LOBSTER TAILS ? LOBSTER TAILS
+espresso cup filled with chocolate mousse ? espresso cup filled with chocolate mousse
+desserts ? desserts
+Pho ? Pho
+Lemon grass chicken ? Lemon grass chicken
+Beef Cube on rice ? Beef Cube on rice
+portraits ? portraits
+food ? food
+appitizers ? appitizers
+main course ? main course
+desserts ? desserts
+fish ? fish
+curry sauce ? curry sauce
+deli ? deli
+pork buns ? pork buns
+Thai food ? Thai food
+delivery ? delivery
+space ? space
+drink ? drink
+place ? place
+slice ? slice
+dessert ? dessert
+reservation ? reservation
+food ? food
+pastas ? pastas
+pizza ? pizza
+Food ? Food
+Lobster Bisque ? Lobster Bisque
+Maine Lobster ? Maine Lobster
+Pad Thai ? Pad Thai
+prices ? prices
+Food ? Food
+price ? price
+Dessert ? Dessert
+food ? food
+Ingredients ? Ingredients
+food ? food
+cuisine ? cuisine
+prices ? prices
+staff ? staff
+ambience ? ambience
+food ? food
+ingrediants ? ingrediants
+cuisine ? cuisine
+food ? food
+Pizza ? Pizza
+wine ? wine
+service ? service
+backyard dining area ? backyard dining area
+waiters ? waiters
+food ? food
+bill ? bill
+service ? service
+menu ? menu
+food ? food
+table ? table
+menu ? menu
+rice ? rice
+RICE ? RICE
+chocolate cake ? chocolate cake
+vanilla gelato (with espresso) ? vanilla gelato (with espresso)
+dessert ? dessert
+surroundings ? surroundings
+dining rooms ? dining rooms
+reservation ? reservation
+table ? table
+reservation ? reservation
+dining ? dining
+staff ? staff
+flavors ? flavors
+oysters ? oysters
+quality ? quality
+table ? table
+tiramisu chocolate cake ? tiramisu chocolate cake
+counter service ? counter service
+Service ? Service
+food ? food
+place ? place
+sauce ? sauce
+crust ? crust
+dinner ? dinner
+brunch ? brunch
+decore ? decore
+food ? food
+entrees ? entrees
+service ? service
+food ? food
+served ? served
+portions ? portions
+dish ? dish
+cater ? cater
+mango chicken ? mango chicken
+presentation ? presentation
+food ? food
+ambience ? ambience
+drinks ? drinks
+service ? service
+garlic mashed potatoes ? garlic mashed potatoes
+Food ? Food
+service ? service
+lamb meat ? lamb meat
+pad thai ? pad thai
+food quality ? food quality
+service ? service
+pizza ? pizza
+service ? service
+waiter ? waiter
+red wine ? red wine
+hot tea ? hot tea
+outside ? outside
+oil ? oil
+place ? place
+food ? food
+lunch ? lunch
+wine list ? wine list
+desserts ? desserts
+Lassi ? Lassi
+coffee ? coffee
+wine list ? wine list
+food ? food
+service ? service
+space ? space
+tables ? tables
+service ? service
+waitresses ? waitresses
+place ? place
+dish ? dish
+host ? host
+Taxan ? Taxan
+sandwiches ? sandwiches
+price ? price
+portion ? portion
+Southern Indian cuisine ? Southern Indian cuisine
+place ? place
+salad ? salad
+tip ? tip
+Sushi ? Sushi
+food ? food
+Staffs ? Staffs
+taste ? taste
+jukebox ? jukebox
+martini ? martini
+food ? food
+cuisine ? cuisine
+waiter ? waiter
+Margarita ? Margarita
+tastes ? tastes
+sake list ? sake list
+Purple Haze ? Purple Haze
+tables ? tables
+menu ? menu
+wine list ? wine list
+food ? food
+appetizer ? appetizer
+portions ? portions
+served ? served
+lunch ? lunch
+space ? space
+decor ? decor
+dinner ? dinner
+service ? service
+Steak ? Steak
+rice ? rice
+sushi ? sushi
+seasoning ? seasoning
+sushi ? sushi
+menu ? menu
+Japanese classic cuisine ? Japanese classic cuisine
+sushi ? sushi
+prices ? prices
+spinach ? spinach
+Shanghai low mein ? Shanghai low mein
+Owner ? Owner
+service ? service
+dim sum orders ? dim sum orders
+dumpling ? dumpling
+wine menu ? wine menu
+entree ? entree
+horedevous ? horedevous
+food ? food
+owner ? owner
+waiters ? waiters
+owners ? owners
+food ? food
+drink ? drink
+hong-kong styled milk ? hong-kong styled milk
+tea with tapioca pearls (hot) ? tea with tapioca pearls (hot)
+chef ? chef
+assortment of fish ? assortment of fish
+Fatty Yellow Tail ? Fatty Yellow Tail
+Boton Shrimp ? Boton Shrimp
+Sea Eel ? Sea Eel
+Sea Urchin ? Sea Urchin
+Blue Fin Torro (Fatty Tuna) ? Blue Fin Torro (Fatty Tuna)
+owner ? owner
+room ? room
+plate ? plate
+waterbugs ? waterbugs
+crew ? crew
+staff ? staff
+serving ? serving
+ambiance ? ambiance
+food ? food
+dishes ? dishes
+eggplant parmesan ? eggplant parmesan
+veal in carozza chicken saltimbocca ? veal in carozza chicken saltimbocca
+host ? host
+appetizers ? appetizers
+waiter ? waiter
+chutneys ? chutneys
+bar ? bar
+mixed drink special ? mixed drink special
+food ? food
+service ? service
+ambience ? ambience
+chef ? chef
+staff ? staff
+ambience ? ambience
+money ? money
+prices ? prices
+drink ? drink
+bagels ? bagels
+atmosphere ? atmosphere
+waiting area ? waiting area
+seat ? seat
+bar ? bar
+wait ? wait
+food ? food
+flavor ? flavor
+dish ? dish
+spice ? spice
+fried dumplings ? fried dumplings
+BBQ ribs ? BBQ ribs
+waiters ? waiters
+decor ? decor
+Argentinian Pizza ? Argentinian Pizza
+lunch ? lunch
+Pelligrino ? Pelligrino
+pizza ? pizza
+goat cheese ? goat cheese
+blue cheese ? blue cheese
+kamasutra ? kamasutra
+bombay cosmopolitan ? bombay cosmopolitan
+date spot ? date spot
+dim sum ? dim sum
+food ? food
+food ? food
+Seating ? Seating
+cost ? cost
+botle of wine ? botle of wine
+Service ? Service
+people ? people
+steak ? steak
+sauce ? sauce
+staff ? staff
+food ? food
+atmosphere ? atmosphere
+food ? food
+steak dish ? steak dish
+menu ? menu
+staff ? staff
+sushi ? sushi
+check ? check
+dinner ? dinner
+bar ? bar
+food spot ? food spot
+bagel ? bagel
+tuna ? tuna
+somosas ? somosas
+chai ? chai
+chole ? chole
+dhosas ? dhosas
+dhal ? dhal
+prices ? prices
+staff ? staff
+bathroom ? bathroom
+service ? service
+Service ? Service
+Service ? Service
+food ? food
+decor ? decor
+service ? service
+tables ? tables
+space ? space
+palak paneer ? palak paneer
+malai kofta ? malai kofta
+dining ? dining
+price ? price
+service ? service
+ambiance ? ambiance
+food ? food
+service ? service
+service ? service
+dish ? dish
+spring rolls ? spring rolls
+cod with pineapple tempura ? cod with pineapple tempura
+bottle ? bottle
+waitress ? waitress
+price ? price
+sushi ? sushi
+sauce ? sauce
+topping ? topping
+taste ? taste
+service ? service
+place ? place
+service ? service
+food ? food
+Service ? Service
+meal ? meal
+portions ? portions
+qualities ? qualities
+food ? food
+atmosphere ? atmosphere
+music ? music
+dress cod ? dress cod
+food ? food
+candles ? candles
+dinner ? dinner
+surrounding ? surrounding
+pictures ? pictures
+desserts ? desserts
+sake ? sake
+place ? place
+Reuben sandwich ? Reuben sandwich
+place ? place
+strawberry daiquiries ? strawberry daiquiries
+dinner ? dinner
+sushi ? sushi
+wait service ? wait service
+atmosphere ? atmosphere
+area ? area
+Frites ? Frites
+zen feel ? zen feel
+drink ? drink
+bar ? bar
+wait time ? wait time
+egg noodles in the beef broth with shrimp dumplings and slices of BBQ roast pork ? egg noodles in the beef broth with shrimp dumplings and slices of BBQ roast pork
+table ? table
+rice congee soup ? rice congee soup
+bagel ? bagel
+summer rolls ? summer rolls
+sushi ? sushi
+service ? service
+Spreads ? Spreads
+toppings ? toppings
+pizza ? pizza
+plates ? plates
+Indoor ? Indoor
+brunch ? brunch
+mimosas ? mimosas
+prices ? prices
+prices ? prices
+food ? food
+service ? service
+service ? service
+food ? food
+service ? service
+drinks ? drinks
+dinner ? dinner
+spot ? spot
+dishes ? dishes
+cafe ? cafe
+outdoor chairs ? outdoor chairs
+tables ? tables
+service ? service
+staff ? staff
+Food ? Food
+salads ? salads
+lettuce ? lettuce
+walnuts ? walnuts
+lunch buffet ? lunch buffet
+cuisine ? cuisine
+priced ? priced
+dinner ? dinner
+lunch ? lunch
+Ambience ? Ambience
+portion sizes ? portion sizes
+sushi ? sushi
+tuna ? tuna
+menu ? menu
+pad thai ? pad thai
+tom yum soup ? tom yum soup
+food ? food
+caviar ? caviar
+service ? service
+food ? food
+food ? food
+wait ? wait
+eats ? eats
+fish ? fish
+Tuscan cuisine ? Tuscan cuisine
+Neapolitan fare ? Neapolitan fare
+entrees ? entrees
+summer rolls ? summer rolls
+owner ? owner
+service ? service
+lobster teriyaki ? lobster teriyaki
+rose special roll ? rose special roll
+entrees ? entrees
+food ? food
+atmosphere ? atmosphere
+place ? place
+food ? food
+service ? service
+value ? value
+foods ? foods
+food ? food
+glass of wine ? glass of wine
+glass of beer ? glass of beer
+dinner ? dinner
+drinks ? drinks
+service staff ? service staff
+delivery guys ? delivery guys
+staff ? staff
+prices ? prices
+food ? food
+Tamarind Margaritas ? Tamarind Margaritas
+filet mignon dish ? filet mignon dish
+food ? food
+getting a table ? getting a table
+place ? place
+food ? food
+food ? food
+pastrami on challah sandwich ? pastrami on challah sandwich
+soups ? soups
+knishes ? knishes
+atmosphere ? atmosphere
+atomosphere ? atomosphere
+tables ? tables
+beer ? beer
+scallops ? scallops
+mahi mahi (on saffron risotto ? mahi mahi (on saffron risotto
+ambience ? ambience
+prices ? prices
+food ? food
+Go Go Hamburgers ? Go Go Hamburgers
+sandwhiches ? sandwhiches
+Thia food ? Thia food
+Decor ? Decor
+food ? food
+spring rolls ? spring rolls
+noodles ? noodles
+price ? price
+dim sum ? dim sum
+food ? food
+portions ? portions
+dishes ? dishes
+dish ? dish
+drinks ? drinks
+bars ? bars
+drinks ? drinks
+stuff ? stuff
+waiter ? waiter
+dessert ? dessert
+staff ? staff
+food ? food
+pre-theatre menu ? pre-theatre menu
+seafood ? seafood
+vegetables ? vegetables
+portion size ? portion size
+prices ? prices
+quality ? quality
+quantity ? quantity
+freshness ? freshness
+taste ? taste
+stomach ? stomach
+wallet ? wallet
+Gnochi ? Gnochi
+SERVICE ? SERVICE
+FOOD QUALITY ? FOOD QUALITY
+PRICES ? PRICES
+meal ? meal
+line ? line
+dinner specials ? dinner specials
+priced ? priced
+food ? food
+service ? service
+wine ? wine
+cheese ? cheese
+fondue ? fondue
+table grilling ? table grilling
+food ? food
+exotic salad ? exotic salad
+green salad ? green salad
+sweet basil fried tofu ? sweet basil fried tofu
+peanut sauce ? peanut sauce
+TOASTING ? TOASTING
+food ? food
+garden ? garden
+place ? place
+service ? service
+food ? food
+waiter ? waiter
+wine ? wine
+meal ? meal
+chicken ? chicken
+steak ? steak
+lamb sandwhich ? lamb sandwhich
+dim sum dish ? dim sum dish
+food ? food
+food ? food
+service ? service
+rice ? rice
+entrees ? entrees
+Traditional French decour ? Traditional French decour
+hall ? hall
+fish ? fish
+sushi chef ? sushi chef
+wasabi ? wasabi
+soy sauce ? soy sauce
+sea salt ? sea salt
+burgers ? burgers
+cheeseburgers ? cheeseburgers
+Unda (Egg) rolls ? Unda (Egg) rolls
+wine choices ? wine choices
+Jazz ? Jazz
+waitstaff ? waitstaff
+lazy susans ? lazy susans
+tables ? tables
+tuna ? tuna
+steak ? steak
+pork loin ? pork loin
+table ? table
+wait ? wait
+setting ? setting
+service ? service
+burger ? burger
+discount ? discount
+service ? service
+portions ? portions
+food ? food
+pizza ? pizza
+Edamame pureed ? Edamame pureed
+service ? service
+specials ? specials
+price ? price
+appetizers ? appetizers
+food ? food
+vegetarian dishes ? vegetarian dishes
+non-veg selections ? non-veg selections
+owner ? owner
+sushi ? sushi
+place ? place
+lunch ? lunch
+wait ? wait
+food ? food
+dinners ? dinners
+food ? food
+service ? service
+atmosphere ? atmosphere
+lunch buffet ? lunch buffet
+dinner ? dinner
+lunch ? lunch
+appetizers ? appetizers
+shrimp fritters ? shrimp fritters
+dumplings ? dumplings
+people ? people
+food ? food
+spot lights ? spot lights
+Times Square cocktail ? Times Square cocktail
+ginger lemonade with vodka ? ginger lemonade with vodka
+Veal Parmigana ? Veal Parmigana
+wine ? wine
+food ? food
+service ? service
+air conditioning ? air conditioning
+meal ? meal
+food ? food
+staff ? staff
+pizza ? pizza
+sushi ? sushi
+food ? food
+price ? price
+decor ? decor
+sichuan cooking ? sichuan cooking
+chongqing hotpot ? chongqing hotpot
+table ? table
+waiter traffic ? waiter traffic
+dinner plates ? dinner plates
+Sake collection ? Sake collection
+Nanbu Bijin ? Nanbu Bijin
+dishes ? dishes
+chicken in curry sauc ? chicken in curry sauc
+salmon caserole ? salmon caserole
+Angry Lobster ? Angry Lobster
+cold lobster salad ? cold lobster salad
+bartender ? bartender
+service ? service
+crab-cake eggs benedict ? crab-cake eggs benedict
+decor ? decor
+bathrooms ? bathrooms
+location ? location
+prices ? prices
+place ? place
+Service ? Service
+Deliveries ? Deliveries
+prices ? prices
+place ? place
+hot dogs ? hot dogs
+menu ? menu
+chicken with garlic sauce ? chicken with garlic sauce
+chicken with black bean sauce ? chicken with black bean sauce
+hunan chicken ? hunan chicken
+take-out pies ? take-out pies
+crust ? crust
+dish ? dish
+beef ? beef
+bannan fritter ? bannan fritter
+served ? served
+rice ? rice
+water ? water
+place ? place
+Appetizers ? Appetizers
+main dishes ? main dishes
+dinner ? dinner
+food ? food
+atmosphere ? atmosphere
+mascarpone with chocolate chip ? mascarpone with chocolate chip
+manager ? manager
+table ? table
+appetizers ? appetizers
+pizza ? pizza
+caprese salad appetizer ? caprese salad appetizer
+meal ? meal
+Half-Price Saturday Night Special ? Half-Price Saturday Night Special
+food ? food
+value ? value
+selection ? selection
+basic dishes ? basic dishes
+soup ? soup
+nosh (pastrami sandwich) ? nosh (pastrami sandwich)
+lunch ? lunch
+Christmas dinner ? Christmas dinner
+bagels ? bagels
+table ? table
+reservations ? reservations
+hostess ? hostess
+busboy ? busboy
+table ? table
+pizza ? pizza
+dinosaur rolls ? dinosaur rolls
+white tuna sashimi ? white tuna sashimi
+Gnocchi ? Gnocchi
+reservation ? reservation
+beer ? beer
+bar ? bar
+service ? service
+bottle of sake ? bottle of sake
+edamames ? edamames
+sushi plate ? sushi plate
+sashimi ? sashimi
+cheese sticks ? cheese sticks
+appetizers ? appetizers
+dim sum ? dim sum
+foods ? foods
+food ? food
+table ? table
+pot of boiling water ? pot of boiling water
+meats ? meats
+vegetables ? vegetables
+rice ? rice
+glass noodles ? glass noodles

@@ -2107,7 +2107,7 @@
         </aspectCategories>
     </sentence>
     <sentence id="809">
-        <text>would have rather tried terrace in the sky or water club for that price</text>
+        <text>would have rather tried terrace in the sky or water club for that price.</text>
         <aspectTerms>
             <aspectTerm term="price" polarity="negative" from="66" to="71"/>
         </aspectTerms>
@@ -6950,11 +6950,11 @@
         </aspectCategories>
     </sentence>
     <sentence id="2589">
-        <text>The plain pizza was soggy and the creative wild mushroom(third generation-Fornini) pizza we had was drenched with truffle oil in the middle( again making it soggy) and nothingon the rest.</text>
+        <text>The plain pizza was soggy and the creative wild mushroom (third generation-Fornini) pizza we had was drenched with truffle oil in the middle( again making it soggy) and nothingon the rest.</text>
         <aspectTerms>
             <aspectTerm term="plain pizza" polarity="negative" from="4" to="15"/>
             <aspectTerm term="truffle oil" polarity="neutral" from="114" to="125"/>
-            <aspectTerm term="wild mushroom(third generation-Fornini) pizza" polarity="positive" from="43" to="88"/>
+            <aspectTerm term="wild mushroom (third generation-Fornini) pizza" polarity="positive" from="43" to="88"/>
         </aspectTerms>
         <aspectCategories>
             <aspectCategory category="food" polarity="negative"/>
@@ -8301,7 +8301,7 @@
         </aspectCategories>
     </sentence>
     <sentence id="1066">
-        <text>Other apetizers and food</text>
+        <text>Other apetizers and food.</text>
         <aspectTerms>
             <aspectTerm term="apetizers" polarity="neutral" from="6" to="15"/>
             <aspectTerm term="food" polarity="neutral" from="20" to="24"/>
@@ -9620,10 +9620,10 @@
         </aspectCategories>
     </sentence>
     <sentence id="3327">
-        <text>The food at this place is 'gourmet' Indian cuisine.</text>
+        <text>The food at this place is gourmet Indian cuisine.</text>
         <aspectTerms>
             <aspectTerm term="food" polarity="neutral" from="4" to="8"/>
-            <aspectTerm term="'gourmet' Indian cuisine" polarity="neutral" from="26" to="50"/>
+            <aspectTerm term="gourmet Indian cuisine" polarity="neutral" from="26" to="50"/>
         </aspectTerms>
         <aspectCategories>
             <aspectCategory category="food" polarity="neutral"/>
@@ -10154,7 +10154,7 @@
         </aspectCategories>
     </sentence>
     <sentence id="469">
-        <text>My husband and I ate here after reading reviews here as well as hobokeni.com,</text>
+        <text>My husband and I ate here after reading reviews here as well as hobokeni.com.</text>
         <aspectCategories>
             <aspectCategory category="anecdotes/miscellaneous" polarity="neutral"/>
         </aspectCategories>
@@ -11159,15 +11159,6 @@
         <text>When I called this morning, I didn't think I would be able to get in at 12, but I was able to get in, along with four other guests.</text>
         <aspectCategories>
             <aspectCategory category="anecdotes/miscellaneous" polarity="neutral"/>
-        </aspectCategories>
-    </sentence>
-    <sentence id="566">
-        <text>Got club soda, filled with ice, no lime.</text>
-        <aspectTerms>
-            <aspectTerm term="club soda, filled with ice, no lime" polarity="neutral" from="4" to="39"/>
-        </aspectTerms>
-        <aspectCategories>
-            <aspectCategory category="service" polarity="negative"/>
         </aspectCategories>
     </sentence>
     <sentence id="2646">
@@ -12655,7 +12646,7 @@
         </aspectCategories>
     </sentence>
     <sentence id="960">
-        <text>The restaurant is a bit noisy but that is something that can be overlooked once you sit down and enjoy a great meal</text>
+        <text>The restaurant is a bit noisy but that is something that can be overlooked once you sit down and enjoy a great meal.</text>
         <aspectTerms>
             <aspectTerm term="meal" polarity="positive" from="111" to="115"/>
         </aspectTerms>
@@ -14774,18 +14765,6 @@
             <aspectTerm term="reservation" polarity="positive" from="48" to="59"/>
         </aspectTerms>
         <aspectCategories>
-            <aspectCategory category="service" polarity="positive"/>
-        </aspectCategories>
-    </sentence>
-    <sentence id="2496">
-        <text>You rarely have to wait for a seat and the currys (masaman, green, red) are full of flavor and come super spicy if you ask for it.</text>
-        <aspectTerms>
-            <aspectTerm term="seat" polarity="positive" from="30" to="34"/>
-            <aspectTerm term="currys (masaman, green, red)" polarity="positive" from="43" to="71"/>
-            <aspectTerm term="flavor" polarity="positive" from="84" to="90"/>
-        </aspectTerms>
-        <aspectCategories>
-            <aspectCategory category="food" polarity="positive"/>
             <aspectCategory category="service" polarity="positive"/>
         </aspectCategories>
     </sentence>
@@ -18374,7 +18353,7 @@
         </aspectCategories>
     </sentence>
     <sentence id="2440">
-        <text>An excellent service</text>
+        <text>An excellent service.</text>
         <aspectTerms>
             <aspectTerm term="service" polarity="positive" from="13" to="20"/>
         </aspectTerms>
@@ -21334,16 +21313,6 @@
         </aspectTerms>
         <aspectCategories>
             <aspectCategory category="anecdotes/miscellaneous" polarity="positive"/>
-        </aspectCategories>
-    </sentence>
-    <sentence id="512">
-        <text>Took my mom for Mother's Day, and the maitre d' was pretty rude.</text>
-        <aspectTerms>
-            <aspectTerm term="maitre d'" polarity="negative" from="38" to="47"/>
-        </aspectTerms>
-        <aspectCategories>
-            <aspectCategory category="service" polarity="negative"/>
-            <aspectCategory category="anecdotes/miscellaneous" polarity="negative"/>
         </aspectCategories>
     </sentence>
     <sentence id="3019">

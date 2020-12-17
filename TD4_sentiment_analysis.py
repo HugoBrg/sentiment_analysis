@@ -76,8 +76,7 @@ for x in range(len(reviews_tagged)):
             #print(couple[0] + " pos : " + str(pos) + " neg : " + str(neg))
             res = 0
             res = pos-neg
-            couple.append(res)
-            
+            couple.append(res)            
         to_append.append(couple)
     to_append.pop(0)
     reviews_manually_tagged.append(to_append)
@@ -108,7 +107,7 @@ def sentence_sections():
                 # Analyse de la section de la phrase
                 phrase.append(section)
                 section = []
-            elif reviews_manually_tagged[x][y][0] == "." or reviews_manually_tagged[x][y][0] == "?" or reviews_manually_tagged[x][y][0] == "!":
+            elif y == len(reviews_manually_tagged[x]) -1 :
                 phrase.append(section)
                 section = []
                 ensemble_phrases.append(phrase)
@@ -117,11 +116,10 @@ def sentence_sections():
     return ensemble_phrases
 
 sentences_section = sentence_sections()
-
 # reponse = ["thomas","positif"]
 #sentences_section = [[[["The",0],["staff",1]],[["doctor",0],["staff",-1]]],[[["coucou",0],["food",0]]]]
 reponse = []
-for x in range(100):
+for x in range(len(sentences_section)):
     for k in range(len(liste_reponses_aspectTerms[x])):
         # On cherche l'aspect term dans le phrase 
         # La phrase est coupé en section
@@ -132,9 +130,16 @@ for x in range(100):
                 # Itération sur les mots de la section de la phrase
                 phrase = ""
                 for w in range(len(sentences_section[x][y])):
-                    phrase += sentences_section[x][y][w][0] + " "
-                print( "Phrase : " + str(phrase))
-                print("Mot cherché :" + str(liste_reponses_aspectTerms[x][k][0]))
+                    if(sentences_section[x][y][w][0] == "("):
+                        phrase += sentences_section[x][y][w][0]
+                    elif(sentences_section[x][y][w][0] == ")"):
+                        phrase = phrase[:-1]
+                        phrase += sentences_section[x][y][w][0] + " "
+                    elif(sentences_section[x][y][w][0] == "'s"):
+                        phrase = phrase[:-1]
+                        phrase += sentences_section[x][y][w][0] + " "
+                    else:
+                        phrase += sentences_section[x][y][w][0] + " "
                 if(phrase.find(liste_reponses_aspectTerms[x][k][0]) != -1 and search == False):
                     # On récupère la positivité de la phrase 
                     reponse.append([liste_reponses_aspectTerms[x][k][0],polarity(sentences_section[x][y])])
@@ -143,14 +148,20 @@ for x in range(100):
             phrase = ""
             # Itération sur les mots de la section de la phrase
             for w in range(len(sentences_section[x][0])):                
-                phrase += sentences_section[x][0][w][0] + " "
-            print( "Phrase : " + str(phrase))
-            print("Mot cherché :" + str(liste_reponses_aspectTerms[x][k][0]))
+                if(sentences_section[x][0][w][0] == "("):
+                    phrase += sentences_section[x][0][w][0]
+                elif(sentences_section[x][0][w][0] == ")"):
+                    phrase = phrase[:-1]
+                    phrase += sentences_section[x][0][w][0] + " "
+                elif(sentences_section[x][0][w][0] == "'s"):
+                    phrase = phrase[:-1]
+                    phrase += sentences_section[x][0][w][0] + " "
+                else:
+                    phrase += sentences_section[x][0][w][0] + " "
             if(phrase.find(liste_reponses_aspectTerms[x][k][0]) != -1):
                 # On récupère la positivité de la phrase 
                 reponse.append([liste_reponses_aspectTerms[x][k][0],polarity(sentences_section[x][0])])
-for x in range(100):
-    print(reponse[x])
+
 listTerms = []
 # Formatage de la liste des aspects terms
 for x in range(len(liste_reponses_aspectTerms)):
@@ -161,17 +172,11 @@ for x in range(len(liste_reponses_aspectTerms)):
 totalAspectTerms = len(listTerms)
 justeAspectTerms = 0
 for x in range(len(listTerms)):
-    print(listTerms[x][0] + " ? " + reponse[x][0])
     if(listTerms[x][0] == reponse[x][0]):
         if(listTerms[x][1] == reponse[x][1]):
             justeAspectTerms += 1
-print(justeAspectTerms)
-print(totalAspectTerms)
-print(len(dataset))
 precision = justeAspectTerms / totalAspectTerms
 rappel = justeAspectTerms / len(dataset)
-print(rappel)
-print(precision)
 print("Résultat de l'évaluation : " + str(2*((precision*rappel)/(precision+rappel))))
     
 
