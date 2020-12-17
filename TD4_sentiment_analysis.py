@@ -108,7 +108,7 @@ def sentence_sections():
                 # Analyse de la section de la phrase
                 phrase.append(section)
                 section = []
-            elif reviews_manually_tagged[x][y][0] == ".":
+            elif reviews_manually_tagged[x][y][0] == "." or reviews_manually_tagged[x][y][0] == "?" or reviews_manually_tagged[x][y][0] == "!":
                 phrase.append(section)
                 section = []
                 ensemble_phrases.append(phrase)
@@ -121,33 +121,36 @@ sentences_section = sentence_sections()
 # reponse = ["thomas","positif"]
 #sentences_section = [[[["The",0],["staff",1]],[["doctor",0],["staff",-1]]],[[["coucou",0],["food",0]]]]
 reponse = []
-for x in range(30):
+for x in range(100):
     for k in range(len(liste_reponses_aspectTerms[x])):
         # On cherche l'aspect term dans le phrase 
         # La phrase est coupé en section
         if(len(sentences_section[x]) > 1):
+            search = False
             # Itération sur les sections de phrase
-            for y in range(len(sentences_section[x])):
+            for y in range(len(sentences_section[x])):  
                 # Itération sur les mots de la section de la phrase
                 phrase = ""
                 for w in range(len(sentences_section[x][y])):
                     phrase += sentences_section[x][y][w][0] + " "
-                print(liste_reponses_aspectTerms[x][k][0])
-                print(phrase)
-                if(phrase.find(liste_reponses_aspectTerms[x][k][0]) != -1):
+                print( "Phrase : " + str(phrase))
+                print("Mot cherché :" + str(liste_reponses_aspectTerms[x][k][0]))
+                if(phrase.find(liste_reponses_aspectTerms[x][k][0]) != -1 and search == False):
                     # On récupère la positivité de la phrase 
                     reponse.append([liste_reponses_aspectTerms[x][k][0],polarity(sentences_section[x][y])])
+                    search = True
         else:
             phrase = ""
             # Itération sur les mots de la section de la phrase
             for w in range(len(sentences_section[x][0])):                
                 phrase += sentences_section[x][0][w][0] + " "
-            print(liste_reponses_aspectTerms[x][k][0])
-            print(phrase)
+            print( "Phrase : " + str(phrase))
+            print("Mot cherché :" + str(liste_reponses_aspectTerms[x][k][0]))
             if(phrase.find(liste_reponses_aspectTerms[x][k][0]) != -1):
                 # On récupère la positivité de la phrase 
                 reponse.append([liste_reponses_aspectTerms[x][k][0],polarity(sentences_section[x][0])])
-
+for x in range(100):
+    print(reponse[x])
 listTerms = []
 # Formatage de la liste des aspects terms
 for x in range(len(liste_reponses_aspectTerms)):
@@ -155,9 +158,9 @@ for x in range(len(liste_reponses_aspectTerms)):
         listTerms.append([liste_reponses_aspectTerms[x][y][0],liste_reponses_aspectTerms[x][y][1]])
 
 # Evaluation
-totalAspectTerms = len(liste_reponses_aspectTerms)
+totalAspectTerms = len(listTerms)
 justeAspectTerms = 0
-for x in range(30):
+for x in range(len(listTerms)):
     print(listTerms[x][0] + " ? " + reponse[x][0])
     if(listTerms[x][0] == reponse[x][0]):
         if(listTerms[x][1] == reponse[x][1]):
