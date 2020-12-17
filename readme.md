@@ -1,0 +1,3 @@
+# Commentaires
+Nous avons choisi la solution de découper les phrases afin d'obtenir les polarités des sections de phrase. 
+Cette solution est intéréssante mais nous avons un gros problème qui est la syntaxe du texte dans le xml. Nous sommes assez sensible à la typographie et une phrase trop spécifique nous provoque un bug dans notre programme. Nous avons réussi seulement sur l'ensemble restaurant_train en modifiant certains textes du xml. Sans cela notre soucis est que nos listes d'aspect terms sont décalés l'une en fonction de l'autre lorsqu'on vérifie notre liste d'aspect terms avec la réponse des polarités. 
